@@ -1,26 +1,27 @@
 //
-//  ViewController.swift
+//  ViewController2.swift
 //  My Pet, The Rock Official
 //
-//  Created by Joey Newfield on 3/20/18.
+//  Created by Joey Newfield on 3/22/18.
 //  Copyright © 2018 Joey Newfield. All rights reserved.
 //
 
 import UIKit
+import SpriteKit
 import AVFoundation
 
-class ViewController: UIViewController {
+class ViewController2: UIViewController {
 
     @IBOutlet weak var imageView: UIImageView!
-    
     @IBOutlet weak var eyeButton: UIButton!
     @IBOutlet weak var normalButton: UIButton!
-    @IBOutlet weak var browButton: UIButton!
-    @IBOutlet weak var pecButton: UIButton!
-    @IBOutlet weak var armButton: UIButton!
-    @IBOutlet weak var scorpionButton: UIButton!
-    @IBOutlet weak var beltButton: UIButton!
+    
     @IBOutlet weak var carButton: UIButton!
+    @IBOutlet weak var beltButton: UIButton!
+    @IBOutlet weak var scorpionButton: UIButton!
+    @IBOutlet weak var armButton: UIButton!
+    @IBOutlet weak var pecButton: UIButton!
+    @IBOutlet weak var browButton: UIButton!
     
     lazy var buttons: [UIButton] = [self.eyeButton, self.normalButton, self.carButton, self.beltButton, self.scorpionButton, self.armButton, self.pecButton, self.browButton]
     
@@ -56,12 +57,13 @@ class ViewController: UIViewController {
     
     var beltImages: [UIImage] = []
     
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
         eyeImages = createImageArray(total: 3, imagePrefix: "SERock")
-        
+         
         normalImages = createImageArray(total: 2, imagePrefix: "ORock")
         
         browImages = createImageArray(total: 3, imagePrefix: "SPABRock")
@@ -226,6 +228,8 @@ class ViewController: UIViewController {
         imageView.startAnimating()
     }
     
+
+    
     @IBAction func buttonTapped(_ sender: UIButton) {
         for button in self.buttons {
             button.isEnabled = false
@@ -237,7 +241,7 @@ class ViewController: UIViewController {
         }
         animateFive(imageView: imageView, images: eyeImages)
         playEyeSound()
-    }
+            }
     
     @IBAction func buttonTwoTapped(_ sender: UIButton) {
         for button in self.buttons {
@@ -256,7 +260,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -269,12 +273,12 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
         }
-        animateOne(imageView: imageView, images: pecImages)
+         animateOne(imageView: imageView, images: pecImages)
         playPecSound()
     }
     
@@ -282,7 +286,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -295,7 +299,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -303,11 +307,12 @@ class ViewController: UIViewController {
         animateSeven(imageView: imageView, images: scorpionImages)
         playScorpionSound()
     }
+
     @IBAction func buttonSevenTapped(_ sender: UIButton) {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -320,7 +325,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -336,3 +341,16 @@ class ViewController: UIViewController {
     
     
 }
+
+    
+
+    /*
+    // MARK: - Navigation
+
+    // In a storyboard-based application, you will often want to do a little preparation before navigation
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+        // Get the new view controller using segue.destinationViewController.
+        // Pass the selected object to the new view controller.
+    }
+    */
+

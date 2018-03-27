@@ -1,26 +1,29 @@
 //
-//  ViewController.swift
+//  ViewController4.swift
 //  My Pet, The Rock Official
 //
-//  Created by Joey Newfield on 3/20/18.
+//  Created by Joey Newfield on 3/22/18.
 //  Copyright © 2018 Joey Newfield. All rights reserved.
 //
 
 import UIKit
 import AVFoundation
 
-class ViewController: UIViewController {
+class ViewController4: UIViewController {
 
+   
     @IBOutlet weak var imageView: UIImageView!
     
+    
     @IBOutlet weak var eyeButton: UIButton!
+    
     @IBOutlet weak var normalButton: UIButton!
     @IBOutlet weak var browButton: UIButton!
     @IBOutlet weak var pecButton: UIButton!
-    @IBOutlet weak var armButton: UIButton!
     @IBOutlet weak var scorpionButton: UIButton!
     @IBOutlet weak var beltButton: UIButton!
     @IBOutlet weak var carButton: UIButton!
+    @IBOutlet weak var armButton: UIButton!
     
     lazy var buttons: [UIButton] = [self.eyeButton, self.normalButton, self.carButton, self.beltButton, self.scorpionButton, self.armButton, self.pecButton, self.browButton]
     
@@ -256,7 +259,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -269,7 +272,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -282,7 +285,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -295,7 +298,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -303,11 +306,12 @@ class ViewController: UIViewController {
         animateSeven(imageView: imageView, images: scorpionImages)
         playScorpionSound()
     }
+    
     @IBAction func buttonSevenTapped(_ sender: UIButton) {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -320,7 +324,7 @@ class ViewController: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(4)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -336,3 +340,16 @@ class ViewController: UIViewController {
     
     
 }
+
+
+
+/*
+ // MARK: - Navigation
+ 
+ // In a storyboard-based application, you will often want to do a little preparation before navigation
+ override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+ // Get the new view controller using segue.destinationViewController.
+ // Pass the selected object to the new view controller.
+ }
+ */
+
