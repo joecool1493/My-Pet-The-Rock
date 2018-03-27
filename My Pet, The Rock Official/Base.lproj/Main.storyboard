@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="qts-0V-rlP">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="7hy-LX-Twk">
     <device id="retina4_7" orientation="portrait">
         <adaptation id="fullscreen"/>
     </device>
@@ -10,6 +10,11 @@
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
+    <customFonts key="customFonts">
+        <array key="Noteworthy.ttc">
+            <string>Noteworthy-Light</string>
+        </array>
+    </customFonts>
     <scenes>
         <!--View Controller-->
         <scene sceneID="G8c-MF-GW2">
@@ -267,7 +272,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="summershores.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="02a-4K-3rE">
-                                <rect key="frame" x="0.0" y="20" width="375" height="647"/>
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                             </imageView>
                             <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="HRock-1.png" translatesAutoresizingMaskIntoConstraints="NO" id="jIi-ph-rV6">
                                 <rect key="frame" x="18" y="153" width="375" height="667"/>
@@ -341,9 +346,9 @@
                             <constraint firstItem="02a-4K-3rE" firstAttribute="bottom" secondItem="h5s-8j-Efb" secondAttribute="bottom" id="IUm-Fd-fAE"/>
                             <constraint firstItem="jIi-ph-rV6" firstAttribute="leading" secondItem="h5s-8j-Efb" secondAttribute="leading" constant="18" id="VKc-kX-gla"/>
                             <constraint firstItem="02a-4K-3rE" firstAttribute="trailing" secondItem="h5s-8j-Efb" secondAttribute="trailing" id="eaj-2c-bsr"/>
-                            <constraint firstItem="02a-4K-3rE" firstAttribute="top" secondItem="h5s-8j-Efb" secondAttribute="top" id="oZc-3G-m1B"/>
+                            <constraint firstItem="02a-4K-3rE" firstAttribute="top" secondItem="h5s-8j-Efb" secondAttribute="top" constant="-20" id="oZc-3G-m1B"/>
                             <constraint firstItem="02a-4K-3rE" firstAttribute="leading" secondItem="h5s-8j-Efb" secondAttribute="leading" id="rkY-UL-aZX"/>
-                            <constraint firstItem="02a-4K-3rE" firstAttribute="top" secondItem="Nwe-DG-HV3" secondAttribute="topMargin" id="ux9-Ut-upd"/>
+                            <constraint firstItem="02a-4K-3rE" firstAttribute="top" secondItem="Nwe-DG-HV3" secondAttribute="topMargin" constant="-20" id="ux9-Ut-upd"/>
                             <constraint firstAttribute="trailingMargin" secondItem="jIi-ph-rV6" secondAttribute="trailing" constant="-34" id="wnY-Ll-MG7"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="h5s-8j-Efb"/>
@@ -738,15 +743,37 @@
                                     <action selector="buttonEightTapped:" destination="7hy-LX-Twk" eventType="touchUpInside" id="iUB-nh-wtM"/>
                                 </connections>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="4" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FvT-Fq-ObC">
+                                <rect key="frame" x="16" y="53" width="343" height="122"/>
+                                <string key="text">Welcome to the rock's home! Tap the rock to hear what he has to say, then travel with the rock to any of the locations! He has much more to say when he's not home.</string>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DZy-ge-avm">
+                                <rect key="frame" x="111" y="230" width="154" height="43"/>
+                                <fontDescription key="fontDescription" name="Noteworthy-Light" family="Noteworthy" pointSize="19"/>
+                                <state key="normal" title="Let's Get Outta Here!">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                </state>
+                                <connections>
+                                    <segue destination="qts-0V-rlP" kind="show" id="FgZ-h3-xvg"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="bDc-aV-5t9" firstAttribute="leading" secondItem="mYF-i7-stJ" secondAttribute="leading" constant="18" id="29S-8x-aYX"/>
                             <constraint firstItem="2aP-ed-GwV" firstAttribute="bottom" secondItem="mYF-i7-stJ" secondAttribute="bottom" id="4ac-cn-zFK"/>
                             <constraint firstItem="2aP-ed-GwV" firstAttribute="top" secondItem="FUb-eP-EfG" secondAttribute="topMargin" id="6xg-8C-M0T"/>
+                            <constraint firstItem="FvT-Fq-ObC" firstAttribute="top" secondItem="mYF-i7-stJ" secondAttribute="top" constant="33" id="9Jk-ss-0jf"/>
+                            <constraint firstItem="DZy-ge-avm" firstAttribute="centerX" secondItem="FUb-eP-EfG" secondAttribute="centerX" id="B9y-oh-ESK"/>
                             <constraint firstItem="bDc-aV-5t9" firstAttribute="top" secondItem="mYF-i7-stJ" secondAttribute="top" constant="116" id="MBu-4L-HXn"/>
                             <constraint firstAttribute="trailingMargin" secondItem="bDc-aV-5t9" secondAttribute="trailing" constant="-34" id="PXj-9M-dem"/>
+                            <constraint firstItem="FvT-Fq-ObC" firstAttribute="leading" secondItem="2aP-ed-GwV" secondAttribute="leading" constant="16" id="SJU-Db-qQN"/>
                             <constraint firstItem="2aP-ed-GwV" firstAttribute="leading" secondItem="mYF-i7-stJ" secondAttribute="leading" id="aS6-Sq-7B7"/>
+                            <constraint firstItem="DZy-ge-avm" firstAttribute="top" secondItem="FvT-Fq-ObC" secondAttribute="bottom" constant="55" id="sL4-nw-7RR"/>
+                            <constraint firstItem="FvT-Fq-ObC" firstAttribute="trailing" secondItem="2aP-ed-GwV" secondAttribute="trailing" constant="-16" id="vND-bI-Yu3"/>
                             <constraint firstItem="2aP-ed-GwV" firstAttribute="trailing" secondItem="mYF-i7-stJ" secondAttribute="trailing" id="z0c-OM-5BX"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="mYF-i7-stJ"/>

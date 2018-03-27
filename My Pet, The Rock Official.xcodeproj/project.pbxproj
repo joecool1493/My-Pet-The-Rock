@@ -260,6 +260,8 @@
 		84C38F54206A44B300B484C3 /* ooooo2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F53206A44B300B484C3 /* ooooo2.mp3 */; };
 		84C38F56206A451A00B484C3 /* WARock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F55206A451A00B484C3 /* WARock-1.png */; };
 		84C38F58206A452B00B484C3 /* WARock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F57206A452B00B484C3 /* WARock-2.png */; };
+		84C38F5A206ADB2400B484C3 /* PursuitofAppinessfinal.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F59206ADB2400B484C3 /* PursuitofAppinessfinal.pdf */; };
+		84C38F5C206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F5B206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png */; };
 		84DD337C206A125E00BD75A8 /* championsmaylose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */; };
 		84DD337E206A134900BD75A8 /* walktall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337D206A134900BD75A8 /* walktall.mp3 */; };
 		84DD3380206A142E00BD75A8 /* oooo5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337F206A142E00BD75A8 /* oooo5.mp3 */; };
@@ -549,6 +551,8 @@
 		84C38F53206A44B300B484C3 /* ooooo2.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ooooo2.mp3; sourceTree = "<group>"; };
 		84C38F55206A451A00B484C3 /* WARock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WARock-1.png"; sourceTree = "<group>"; };
 		84C38F57206A452B00B484C3 /* WARock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WARock-2.png"; sourceTree = "<group>"; };
+		84C38F59206ADB2400B484C3 /* PursuitofAppinessfinal.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = PursuitofAppinessfinal.pdf; sourceTree = "<group>"; };
+		84C38F5B206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PursuitofAppinessfinal-1.png"; sourceTree = "<group>"; };
 		84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = championsmaylose.mp3; sourceTree = "<group>"; };
 		84DD337D206A134900BD75A8 /* walktall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = walktall.mp3; sourceTree = "<group>"; };
 		84DD337F206A142E00BD75A8 /* oooo5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oooo5.mp3; sourceTree = "<group>"; };
@@ -607,6 +611,8 @@
 				8473836A206A42AF008D9EAD /* WDRock-2.png */,
 				84C38F55206A451A00B484C3 /* WARock-1.png */,
 				84C38F57206A452B00B484C3 /* WARock-2.png */,
+				84C38F59206ADB2400B484C3 /* PursuitofAppinessfinal.pdf */,
+				84C38F5B206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png */,
 			);
 			path = wrestlingimages;
 			sourceTree = "<group>";
@@ -1255,6 +1261,7 @@
 				84869EAE2061C77200789F22 /* BRock-1.png in Resources */,
 				84869F0E2061C78300789F22 /* HRock-2.png in Resources */,
 				849E17CF2069FC2D005FCD78 /* CSERock-1.png in Resources */,
+				84C38F5C206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png in Resources */,
 				8473835D206A3CDF008D9EAD /* WPRock-1.png in Resources */,
 				84869E0F2061C73D00789F22 /* SRock-10.png in Resources */,
 				84F40069206A1D0C008342D8 /* keeprocking.mp3 in Resources */,
@@ -1295,6 +1302,7 @@
 				84F4006D206A1F76008342D8 /* oooo6.mp3 in Resources */,
 				84869E552061C75E00789F22 /* PRock-12.png in Resources */,
 				84869E862061C76900789F22 /* ERock-10.png in Resources */,
+				84C38F5A206ADB2400B484C3 /* PursuitofAppinessfinal.pdf in Resources */,
 				84869E012061C73D00789F22 /* SRock-12.png in Resources */,
 				84869EBF2061C77200789F22 /* BRock-10.png in Resources */,
 				84869F2C2061F36500789F22 /* DRock-5.png in Resources */,
