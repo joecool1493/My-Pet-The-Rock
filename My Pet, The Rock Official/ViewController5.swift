@@ -143,7 +143,7 @@ class ViewController5: UIViewController {
     
     func playPecSound() {
         do {
-            let path = Bundle.main.path(forResource: "neverhitrockbottom", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "onlypebbletwo", ofType: "mp3")
             pecSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             pecSound.play()
         } catch {
@@ -173,8 +173,8 @@ class ViewController5: UIViewController {
     
     func animateOne(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.255
-        imageView.animationRepeatCount = 9
+        imageView.animationDuration = 0.265
+        imageView.animationRepeatCount = 8
         imageView.startAnimating()
     }
     
