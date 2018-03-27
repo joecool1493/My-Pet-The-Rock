@@ -104,7 +104,7 @@ class ViewController2: UIViewController {
     
     func playCarSound() {
         do {
-            let path = Bundle.main.path(forResource: "carlikerock", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "nodwaynenogain", ofType: "mp3")
             carSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             carSound.play()
         } catch {
@@ -114,7 +114,7 @@ class ViewController2: UIViewController {
     
     func playArmSound() {
         do {
-            let path = Bundle.main.path(forResource: "sharpshooter", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "shiningstar", ofType: "mp3")
             armSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             armSound.play()
         } catch {
@@ -209,8 +209,8 @@ class ViewController2: UIViewController {
     
     func animateSix(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.2
-        imageView.animationRepeatCount = 11
+        imageView.animationDuration = 0.215
+        imageView.animationRepeatCount = 5
         imageView.startAnimating()
     }
     
@@ -223,8 +223,8 @@ class ViewController2: UIViewController {
     
     func animateEight(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.24
-        imageView.animationRepeatCount = 10
+        imageView.animationDuration = 0.5
+        imageView.animationRepeatCount = 4
         imageView.startAnimating()
     }
     
@@ -286,7 +286,7 @@ class ViewController2: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             for button in self.buttons {
                 button.isEnabled = true
             }

@@ -93,7 +93,7 @@ class ViewController6: UIViewController {
     
     func playBrowSound() {
         do {
-            let path = Bundle.main.path(forResource: "thirdrock", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "keeprocking", ofType: "mp3")
             browSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             browSound.play()
         } catch {
@@ -103,7 +103,7 @@ class ViewController6: UIViewController {
     
     func playCarSound() {
         do {
-            let path = Bundle.main.path(forResource: "carlikerock", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "rockon", ofType: "mp3")
             carSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             carSound.play()
         } catch {
@@ -113,7 +113,7 @@ class ViewController6: UIViewController {
     
     func playArmSound() {
         do {
-            let path = Bundle.main.path(forResource: "sharpshooter", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "rollingstones", ofType: "mp3")
             armSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             armSound.play()
         } catch {
@@ -123,7 +123,7 @@ class ViewController6: UIViewController {
     
     func playScorpionSound() {
         do {
-            let path = Bundle.main.path(forResource: "youaretheking", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "elvis", ofType: "mp3")
             scorpionSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             scorpionSound.play()
         } catch {
@@ -133,7 +133,7 @@ class ViewController6: UIViewController {
     
     func playEyeSound() {
         do {
-            let path = Bundle.main.path(forResource: "dontpokemyeye", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "jailhouserock", ofType: "mp3")
             eyeSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             eyeSound.play()
         } catch {
@@ -143,7 +143,7 @@ class ViewController6: UIViewController {
     
     func playPecSound() {
         do {
-            let path = Bundle.main.path(forResource: "hotlikecomet", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "iloverocknroll", ofType: "mp3")
             pecSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             pecSound.play()
         } catch {
@@ -153,7 +153,7 @@ class ViewController6: UIViewController {
     
     func playBeltSound() {
         do {
-            let path = Bundle.main.path(forResource: "scream", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "iwillrockyou", ofType: "mp3")
             beltSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             beltSound.play()
         } catch {
@@ -163,7 +163,7 @@ class ViewController6: UIViewController {
     
     func playOoooSound() {
         do {
-            let path = Bundle.main.path(forResource: "oooo9", ofType: "mp3")
+            let path = Bundle.main.path(forResource: "oooo6", ofType: "mp3")
             ooooSound = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
             ooooSound.play()
         } catch {
@@ -173,57 +173,57 @@ class ViewController6: UIViewController {
     
     func animateOne(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.25
-        imageView.animationRepeatCount = 9
+        imageView.animationDuration = 0.32
+        imageView.animationRepeatCount = 5
         imageView.startAnimating()
     }
     
     func animateTwo(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.25
-        imageView.animationRepeatCount = 9
+        imageView.animationDuration = 0.33
+        imageView.animationRepeatCount = 3
         imageView.startAnimating()
     }
     
     func animateThree(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.25
-        imageView.animationRepeatCount = 9
+        imageView.animationDuration = 0.535
+        imageView.animationRepeatCount = 8
         imageView.startAnimating()
     }
     
     func animateFour(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 1.3
+        imageView.animationDuration = 1.1
         imageView.animationRepeatCount = 1
         imageView.startAnimating()
     }
     
     func animateFive(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.25
-        imageView.animationRepeatCount = 13
+        imageView.animationDuration = 0.22
+        imageView.animationRepeatCount = 15
         imageView.startAnimating()
     }
     
     func animateSix(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.2
-        imageView.animationRepeatCount = 11
+        imageView.animationDuration = 0.275
+        imageView.animationRepeatCount = 8
         imageView.startAnimating()
     }
     
     func animateSeven(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.25
-        imageView.animationRepeatCount = 5
+        imageView.animationDuration = 0.24
+        imageView.animationRepeatCount = 16
         imageView.startAnimating()
     }
     
     func animateEight(imageView: UIImageView, images: [UIImage]) {
         imageView.animationImages = images
-        imageView.animationDuration = 0.24
-        imageView.animationRepeatCount = 10
+        imageView.animationDuration = 0.47
+        imageView.animationRepeatCount = 2
         imageView.startAnimating()
     }
     
@@ -257,7 +257,7 @@ class ViewController6: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -270,7 +270,7 @@ class ViewController6: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -296,7 +296,7 @@ class ViewController6: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(2)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(5)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
@@ -309,7 +309,7 @@ class ViewController6: UIViewController {
         for button in self.buttons {
             button.isEnabled = false
         }
-        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(3)) {
+        DispatchQueue.main.asyncAfter(deadline: .now() + .seconds(5)) {
             for button in self.buttons {
                 button.isEnabled = true
             }
