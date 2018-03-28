@@ -41,6 +41,8 @@ class ViewController5: UIViewController {
     
     var scorpionSound = AVAudioPlayer()
     
+    var backgroundMusicPlayer = AVAudioPlayer()
+    
     var normalImages: [UIImage] = []
     
     var eyeImages: [UIImage] = []
@@ -60,6 +62,8 @@ class ViewController5: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        
+        playBackgroundMusic()
         
         eyeImages = createImageArray(total: 3, imagePrefix: "SERock")
         
@@ -89,6 +93,23 @@ class ViewController5: UIViewController {
             imageArray.append(image)
         }
         return imageArray
+    }
+    
+    func playBackgroundMusic() {
+        
+        do {
+            
+            let path = Bundle.main.path(forResource: "HawaiianWinter", ofType: "mp3")
+            backgroundMusicPlayer = try AVAudioPlayer(contentsOf: URL(fileURLWithPath: path!))
+            backgroundMusicPlayer.volume = 0.05
+            backgroundMusicPlayer.numberOfLoops = -1
+            backgroundMusicPlayer.prepareToPlay()
+            backgroundMusicPlayer.play()
+            
+        } catch {
+            print("error loading music")
+        }
+        
     }
     
     func playBrowSound() {
@@ -328,6 +349,9 @@ class ViewController5: UIViewController {
         }
         animateEight(imageView: imageView, images: carImages)
         playCarSound()
+    }
+    @IBAction func buttonNineTapped(_ sender: UIButton) {
+        backgroundMusicPlayer.stop()
     }
     
     override func didReceiveMemoryWarning() {

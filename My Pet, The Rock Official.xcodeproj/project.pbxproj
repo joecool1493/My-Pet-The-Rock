@@ -262,6 +262,15 @@
 		84C38F58206A452B00B484C3 /* WARock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F57206A452B00B484C3 /* WARock-2.png */; };
 		84C38F5A206ADB2400B484C3 /* PursuitofAppinessfinal.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F59206ADB2400B484C3 /* PursuitofAppinessfinal.pdf */; };
 		84C38F5C206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F5B206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png */; };
+		84C38F5F206B24E400B484C3 /* HawaiianWinter.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F5E206B24E400B484C3 /* HawaiianWinter.mp3 */; };
+		84C38F61206B273B00B484C3 /* CinematicHipHop.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F60206B273B00B484C3 /* CinematicHipHop.mp3 */; };
+		84C38F63206B295200B484C3 /* PowerfulSportRock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F62206B295200B484C3 /* PowerfulSportRock.mp3 */; };
+		84C38F65206B29EA00B484C3 /* CountingStars.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F64206B29EA00B484C3 /* CountingStars.mp3 */; };
+		84C38F67206B2A6D00B484C3 /* ClapTrap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F66206B2A6D00B484C3 /* ClapTrap.mp3 */; };
+		84C38F69206B2A7600B484C3 /* Travel.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F68206B2A7600B484C3 /* Travel.mp3 */; };
+		84C38F6B206B2AE600B484C3 /* Chillout.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F6A206B2AE600B484C3 /* Chillout.mp3 */; };
+		84C38F6D206B2AFD00B484C3 /* TheJourneyAhead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F6C206B2AFD00B484C3 /* TheJourneyAhead.mp3 */; };
+		84C38F6F206B2D1C00B484C3 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C38F6E206B2D1C00B484C3 /* ViewController8.swift */; };
 		84DD337C206A125E00BD75A8 /* championsmaylose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */; };
 		84DD337E206A134900BD75A8 /* walktall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337D206A134900BD75A8 /* walktall.mp3 */; };
 		84DD3380206A142E00BD75A8 /* oooo5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337F206A142E00BD75A8 /* oooo5.mp3 */; };
@@ -553,6 +562,15 @@
 		84C38F57206A452B00B484C3 /* WARock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "WARock-2.png"; sourceTree = "<group>"; };
 		84C38F59206ADB2400B484C3 /* PursuitofAppinessfinal.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = PursuitofAppinessfinal.pdf; sourceTree = "<group>"; };
 		84C38F5B206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PursuitofAppinessfinal-1.png"; sourceTree = "<group>"; };
+		84C38F5E206B24E400B484C3 /* HawaiianWinter.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = HawaiianWinter.mp3; sourceTree = "<group>"; };
+		84C38F60206B273B00B484C3 /* CinematicHipHop.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CinematicHipHop.mp3; sourceTree = "<group>"; };
+		84C38F62206B295200B484C3 /* PowerfulSportRock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = PowerfulSportRock.mp3; sourceTree = "<group>"; };
+		84C38F64206B29EA00B484C3 /* CountingStars.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = CountingStars.mp3; sourceTree = "<group>"; };
+		84C38F66206B2A6D00B484C3 /* ClapTrap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = ClapTrap.mp3; sourceTree = "<group>"; };
+		84C38F68206B2A7600B484C3 /* Travel.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Travel.mp3; sourceTree = "<group>"; };
+		84C38F6A206B2AE600B484C3 /* Chillout.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chillout.mp3; sourceTree = "<group>"; };
+		84C38F6C206B2AFD00B484C3 /* TheJourneyAhead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TheJourneyAhead.mp3; sourceTree = "<group>"; };
+		84C38F6E206B2D1C00B484C3 /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
 		84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = championsmaylose.mp3; sourceTree = "<group>"; };
 		84DD337D206A134900BD75A8 /* walktall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = walktall.mp3; sourceTree = "<group>"; };
 		84DD337F206A142E00BD75A8 /* oooo5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oooo5.mp3; sourceTree = "<group>"; };
@@ -620,6 +638,7 @@
 		84869DB62061C6F500789F22 = {
 			isa = PBXGroup;
 			children = (
+				84C38F5D206B24C000B484C3 /* backgroundmusic */,
 				84738353206A39E5008D9EAD /* wrestlingimages */,
 				84F4007F206A2C21008342D8 /* forestsounds */,
 				84F4006E206A20D1008342D8 /* beachsounds */,
@@ -720,6 +739,7 @@
 				849E17102064CDDE005FCD78 /* ViewController5.swift */,
 				849E17122064D208005FCD78 /* ViewController6.swift */,
 				849E17142064D595005FCD78 /* ViewController7.swift */,
+				84C38F6E206B2D1C00B484C3 /* ViewController8.swift */,
 				84869DC62061C6F500789F22 /* Main.storyboard */,
 				84869DCC2061C6F500789F22 /* Assets.xcassets */,
 				84869DCE2061C6F500789F22 /* LaunchScreen.storyboard */,
@@ -998,6 +1018,21 @@
 			path = nieghborhoodsounds;
 			sourceTree = "<group>";
 		};
+		84C38F5D206B24C000B484C3 /* backgroundmusic */ = {
+			isa = PBXGroup;
+			children = (
+				84C38F5E206B24E400B484C3 /* HawaiianWinter.mp3 */,
+				84C38F60206B273B00B484C3 /* CinematicHipHop.mp3 */,
+				84C38F62206B295200B484C3 /* PowerfulSportRock.mp3 */,
+				84C38F64206B29EA00B484C3 /* CountingStars.mp3 */,
+				84C38F66206B2A6D00B484C3 /* ClapTrap.mp3 */,
+				84C38F68206B2A7600B484C3 /* Travel.mp3 */,
+				84C38F6A206B2AE600B484C3 /* Chillout.mp3 */,
+				84C38F6C206B2AFD00B484C3 /* TheJourneyAhead.mp3 */,
+			);
+			path = backgroundmusic;
+			sourceTree = "<group>";
+		};
 		84DD3383206A167C00BD75A8 /* rocknrollsounds */ = {
 			isa = PBXGroup;
 			children = (
@@ -1108,6 +1143,7 @@
 				84C38F54206A44B300B484C3 /* ooooo2.mp3 in Resources */,
 				84869E512061C75E00789F22 /* PRock-14.png in Resources */,
 				8473835F206A3CEF008D9EAD /* WPRock-2.png in Resources */,
+				84C38F67206B2A6D00B484C3 /* ClapTrap.mp3 in Resources */,
 				84869EE62061C77D00789F22 /* ARock-6.png in Resources */,
 				84869EF02061C77D00789F22 /* ARock-13.png in Resources */,
 				84869F0D2061C78300789F22 /* ORock-1.png in Resources */,
@@ -1116,6 +1152,7 @@
 				84869E4E2061C75E00789F22 /* PRock-1.png in Resources */,
 				84869E422061C75E00789F22 /* PRock-13.png in Resources */,
 				84869E772061C76900789F22 /* ERock-7.png in Resources */,
+				84C38F61206B273B00B484C3 /* CinematicHipHop.mp3 in Resources */,
 				84869E4D2061C75E00789F22 /* PRock-15.png in Resources */,
 				84869EFB2061C77D00789F22 /* ARock-2.png in Resources */,
 				84869EFD2061C77D00789F22 /* ARock-6.png in Resources */,
@@ -1133,6 +1170,7 @@
 				84869F3D2061F46E00789F22 /* CRock-5.png in Resources */,
 				84869EB32061C77200789F22 /* BRock-5.png in Resources */,
 				84869EA92061C77200789F22 /* BRock-11.png in Resources */,
+				84C38F6B206B2AE600B484C3 /* Chillout.mp3 in Resources */,
 				84869F412061F46E00789F22 /* CRock-8.png in Resources */,
 				84869DF92061C73D00789F22 /* SRock-12.png in Resources */,
 				849E17C82069C6E8005FCD78 /* SCARRock-1.png in Resources */,
@@ -1212,6 +1250,7 @@
 				84869E392061C75E00789F22 /* PRock-6.png in Resources */,
 				84869F0A2061C78300789F22 /* Rock-9.png in Resources */,
 				84869E102061C73D00789F22 /* SRock-14.png in Resources */,
+				84C38F69206B2A7600B484C3 /* Travel.mp3 in Resources */,
 				849E17852069A886005FCD78 /* thirdrock.mp3 in Resources */,
 				849E17992069B649005FCD78 /* DRock-4.png in Resources */,
 				849E17952069B603005FCD78 /* SDRock-1.png in Resources */,
@@ -1305,6 +1344,7 @@
 				84C38F5A206ADB2400B484C3 /* PursuitofAppinessfinal.pdf in Resources */,
 				84869E012061C73D00789F22 /* SRock-12.png in Resources */,
 				84869EBF2061C77200789F22 /* BRock-10.png in Resources */,
+				84C38F63206B295200B484C3 /* PowerfulSportRock.mp3 in Resources */,
 				84869F2C2061F36500789F22 /* DRock-5.png in Resources */,
 				84DD338B206A1AC800BD75A8 /* iwillrockyou.mp3 in Resources */,
 				84869EED2061C77D00789F22 /* ARock-11.png in Resources */,
@@ -1352,6 +1392,7 @@
 				84869EE42061C77D00789F22 /* ARock-3.png in Resources */,
 				849E17AE2069C21E005FCD78 /* sharpshooter.mp3 in Resources */,
 				84869E482061C75E00789F22 /* PRock-5.png in Resources */,
+				84C38F5F206B24E400B484C3 /* HawaiianWinter.mp3 in Resources */,
 				84869EE12061C77D00789F22 /* ARock-4.png in Resources */,
 				84869F402061F46E00789F22 /* CRock-10.png in Resources */,
 				84869E572061C75E00789F22 /* PRock-8.png in Resources */,
@@ -1363,11 +1404,13 @@
 				84869EA82061C77200789F22 /* BRock-10.png in Resources */,
 				84869EAA2061C77200789F22 /* BRock-8.png in Resources */,
 				84738357206A3A92008D9EAD /* WERock-2.png in Resources */,
+				84C38F6D206B2AFD00B484C3 /* TheJourneyAhead.mp3 in Resources */,
 				849E17EC206A1112005FCD78 /* amazingcarved.mp3 in Resources */,
 				84F40078206A27DF008342D8 /* rockbottomtotop.mp3 in Resources */,
 				849E177E2068857B005FCD78 /* SPABRock-1.png in Resources */,
 				849E178220688591005FCD78 /* SPABRock-2.png in Resources */,
 				84869DD92061C72800789F22 /* winterwayBGV2.jpg in Resources */,
+				84C38F65206B29EA00B484C3 /* CountingStars.mp3 in Resources */,
 				84869E732061C76900789F22 /* ERock-12.png in Resources */,
 				84869E022061C73D00789F22 /* SRock-10.png in Resources */,
 				84869E452061C75E00789F22 /* PRock-11.png in Resources */,
@@ -1395,6 +1438,7 @@
 				84869DCB2061C6F500789F22 /* My_Pet__The_Rock_Official.xcdatamodeld in Sources */,
 				849E17132064D208005FCD78 /* ViewController6.swift in Sources */,
 				849E17152064D595005FCD78 /* ViewController7.swift in Sources */,
+				84C38F6F206B2D1C00B484C3 /* ViewController8.swift in Sources */,
 				84869DC32061C6F500789F22 /* AppDelegate.swift in Sources */,
 				849E17112064CDDE005FCD78 /* ViewController5.swift in Sources */,
 			);
