@@ -27,145 +27,19 @@
 		84869DCD2061C6F500789F22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84869DCC2061C6F500789F22 /* Assets.xcassets */; };
 		84869DD02061C6F500789F22 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84869DCE2061C6F500789F22 /* LaunchScreen.storyboard */; };
 		84869DD92061C72800789F22 /* winterwayBGV2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84869DD82061C72800789F22 /* winterwayBGV2.jpg */; };
-		84869DF72061C73D00789F22 /* SRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DDA2061C73B00789F22 /* SRock-3.png */; };
-		84869DF82061C73D00789F22 /* SRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DDB2061C73C00789F22 /* SRock-11.png */; };
-		84869DF92061C73D00789F22 /* SRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DDC2061C73C00789F22 /* SRock-12.png */; };
-		84869DFB2061C73D00789F22 /* SRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DDE2061C73C00789F22 /* SRock-5.png */; };
-		84869DFC2061C73D00789F22 /* SRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DDF2061C73C00789F22 /* SRock-13.png */; };
-		84869DFD2061C73D00789F22 /* SRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE02061C73C00789F22 /* SRock-2.png */; };
-		84869DFE2061C73D00789F22 /* SRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE22061C73C00789F22 /* SRock-13.png */; };
-		84869DFF2061C73D00789F22 /* SRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE32061C73C00789F22 /* SRock-7.png */; };
-		84869E002061C73D00789F22 /* SRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE42061C73C00789F22 /* SRock-6.png */; };
-		84869E012061C73D00789F22 /* SRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE52061C73C00789F22 /* SRock-12.png */; };
-		84869E022061C73D00789F22 /* SRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE62061C73C00789F22 /* SRock-10.png */; };
-		84869E032061C73D00789F22 /* SRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE72061C73C00789F22 /* SRock-4.png */; };
-		84869E042061C73D00789F22 /* SRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE82061C73C00789F22 /* SRock-5.png */; };
-		84869E052061C73D00789F22 /* SRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DE92061C73C00789F22 /* SRock-11.png */; };
-		84869E062061C73D00789F22 /* SRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DEA2061C73C00789F22 /* SRock-1.png */; };
-		84869E072061C73D00789F22 /* SRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DEB2061C73C00789F22 /* SRock-14.png */; };
-		84869E082061C73D00789F22 /* SRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DEC2061C73C00789F22 /* SRock-2.png */; };
-		84869E092061C73D00789F22 /* SRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DED2061C73C00789F22 /* SRock-3.png */; };
-		84869E0A2061C73D00789F22 /* SRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DEE2061C73C00789F22 /* SRock-8.png */; };
-		84869E0B2061C73D00789F22 /* SRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DEF2061C73C00789F22 /* SRock-9.png */; };
-		84869E0C2061C73D00789F22 /* SRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DF02061C73C00789F22 /* SRock-4.png */; };
-		84869E0F2061C73D00789F22 /* SRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DF32061C73C00789F22 /* SRock-10.png */; };
-		84869E102061C73D00789F22 /* SRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DF42061C73D00789F22 /* SRock-14.png */; };
-		84869E112061C73D00789F22 /* SRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DF52061C73D00789F22 /* SRock-7.png */; };
-		84869E122061C73D00789F22 /* SRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869DF62061C73D00789F22 /* SRock-1.png */; };
 		84869E362061C75E00789F22 /* PRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E132061C75C00789F22 /* PRock-4.png */; };
-		84869E372061C75E00789F22 /* PRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E152061C75C00789F22 /* PRock-9.png */; };
-		84869E382061C75E00789F22 /* PRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E162061C75C00789F22 /* PRock-8.png */; };
-		84869E392061C75E00789F22 /* PRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E172061C75C00789F22 /* PRock-6.png */; };
-		84869E3A2061C75E00789F22 /* PRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E182061C75C00789F22 /* PRock-14.png */; };
-		84869E3B2061C75E00789F22 /* PRock-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E192061C75C00789F22 /* PRock-15.png */; };
-		84869E3C2061C75E00789F22 /* PRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1A2061C75C00789F22 /* PRock-7.png */; };
-		84869E3D2061C75E00789F22 /* PRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1B2061C75C00789F22 /* PRock-5.png */; };
-		84869E3E2061C75E00789F22 /* PRock-17.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1C2061C75C00789F22 /* PRock-17.png */; };
-		84869E3F2061C75E00789F22 /* PRock-16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1D2061C75C00789F22 /* PRock-16.png */; };
-		84869E402061C75E00789F22 /* PRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1E2061C75C00789F22 /* PRock-4.png */; };
-		84869E412061C75E00789F22 /* PRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E1F2061C75C00789F22 /* PRock-12.png */; };
-		84869E422061C75E00789F22 /* PRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E202061C75C00789F22 /* PRock-13.png */; };
-		84869E432061C75E00789F22 /* PRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E212061C75C00789F22 /* PRock-1.png */; };
-		84869E442061C75E00789F22 /* PRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E222061C75C00789F22 /* PRock-3.png */; };
-		84869E452061C75E00789F22 /* PRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E232061C75C00789F22 /* PRock-11.png */; };
-		84869E462061C75E00789F22 /* PRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E242061C75C00789F22 /* PRock-10.png */; };
-		84869E472061C75E00789F22 /* PRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E252061C75C00789F22 /* PRock-2.png */; };
 		84869E482061C75E00789F22 /* PRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E262061C75C00789F22 /* PRock-5.png */; };
 		84869E4B2061C75E00789F22 /* PRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E292061C75D00789F22 /* PRock-13.png */; };
 		84869E4C2061C75E00789F22 /* PRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2A2061C75D00789F22 /* PRock-7.png */; };
 		84869E4D2061C75E00789F22 /* PRock-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2B2061C75D00789F22 /* PRock-15.png */; };
 		84869E4E2061C75E00789F22 /* PRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2C2061C75D00789F22 /* PRock-1.png */; };
-		84869E4F2061C75E00789F22 /* PRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2D2061C75D00789F22 /* PRock-2.png */; };
 		84869E502061C75E00789F22 /* PRock-17.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2E2061C75D00789F22 /* PRock-17.png */; };
 		84869E512061C75E00789F22 /* PRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E2F2061C75D00789F22 /* PRock-14.png */; };
 		84869E522061C75E00789F22 /* PRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E302061C75D00789F22 /* PRock-3.png */; };
 		84869E532061C75E00789F22 /* PRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E312061C75D00789F22 /* PRock-9.png */; };
-		84869E542061C75E00789F22 /* PRock-16.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E322061C75D00789F22 /* PRock-16.png */; };
 		84869E552061C75E00789F22 /* PRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E332061C75E00789F22 /* PRock-12.png */; };
 		84869E562061C75E00789F22 /* PRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E342061C75E00789F22 /* PRock-10.png */; };
 		84869E572061C75E00789F22 /* PRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E352061C75E00789F22 /* PRock-8.png */; };
-		84869E712061C76900789F22 /* ERock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E582061C76800789F22 /* ERock-6.png */; };
-		84869E722061C76900789F22 /* ERock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5A2061C76800789F22 /* ERock-8.png */; };
-		84869E732061C76900789F22 /* ERock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5B2061C76800789F22 /* ERock-12.png */; };
-		84869E742061C76900789F22 /* ERock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5C2061C76800789F22 /* ERock-9.png */; };
-		84869E752061C76900789F22 /* ERock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5D2061C76800789F22 /* ERock-11.png */; };
-		84869E762061C76900789F22 /* ERock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5E2061C76800789F22 /* ERock-10.png */; };
-		84869E772061C76900789F22 /* ERock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E5F2061C76800789F22 /* ERock-7.png */; };
-		84869E782061C76900789F22 /* ERock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E602061C76800789F22 /* ERock-6.png */; };
-		84869E792061C76900789F22 /* ERock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E612061C76800789F22 /* ERock-4.png */; };
-		84869E7A2061C76900789F22 /* ERock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E622061C76800789F22 /* ERock-5.png */; };
-		84869E7B2061C76900789F22 /* ERock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E632061C76800789F22 /* ERock-1.png */; };
-		84869E7C2061C76900789F22 /* ERock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E642061C76800789F22 /* ERock-2.png */; };
-		84869E7D2061C76900789F22 /* ERock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E652061C76800789F22 /* ERock-3.png */; };
-		84869E7E2061C76900789F22 /* ERock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E662061C76800789F22 /* ERock-1.png */; };
-		84869E7F2061C76900789F22 /* ERock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E672061C76800789F22 /* ERock-7.png */; };
-		84869E802061C76900789F22 /* ERock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E682061C76800789F22 /* ERock-9.png */; };
-		84869E812061C76900789F22 /* ERock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E692061C76900789F22 /* ERock-8.png */; };
-		84869E822061C76900789F22 /* ERock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6A2061C76900789F22 /* ERock-11.png */; };
-		84869E832061C76900789F22 /* ERock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6B2061C76900789F22 /* ERock-2.png */; };
-		84869E842061C76900789F22 /* ERock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6C2061C76900789F22 /* ERock-4.png */; };
-		84869E852061C76900789F22 /* ERock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6D2061C76900789F22 /* ERock-5.png */; };
-		84869E862061C76900789F22 /* ERock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6E2061C76900789F22 /* ERock-10.png */; };
-		84869E872061C76900789F22 /* ERock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E6F2061C76900789F22 /* ERock-12.png */; };
-		84869E882061C76900789F22 /* ERock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E702061C76900789F22 /* ERock-3.png */; };
-		84869EA62061C77200789F22 /* BRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E892061C77100789F22 /* BRock-2.png */; };
-		84869EA72061C77200789F22 /* BRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E8B2061C77100789F22 /* BRock-9.png */; };
-		84869EA82061C77200789F22 /* BRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E8C2061C77100789F22 /* BRock-10.png */; };
-		84869EA92061C77200789F22 /* BRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E8D2061C77100789F22 /* BRock-11.png */; };
-		84869EAA2061C77200789F22 /* BRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E8E2061C77100789F22 /* BRock-8.png */; };
-		84869EAB2061C77200789F22 /* BRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E8F2061C77100789F22 /* BRock-13.png */; };
-		84869EAC2061C77200789F22 /* BRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E902061C77100789F22 /* BRock-12.png */; };
-		84869EAD2061C77200789F22 /* BRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E912061C77100789F22 /* BRock-14.png */; };
-		84869EAE2061C77200789F22 /* BRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E922061C77100789F22 /* BRock-1.png */; };
-		84869EAF2061C77200789F22 /* BRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E932061C77100789F22 /* BRock-3.png */; };
-		84869EB02061C77200789F22 /* BRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E942061C77100789F22 /* BRock-2.png */; };
-		84869EB12061C77200789F22 /* BRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E952061C77100789F22 /* BRock-6.png */; };
-		84869EB22061C77200789F22 /* BRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E962061C77100789F22 /* BRock-7.png */; };
-		84869EB32061C77200789F22 /* BRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E972061C77100789F22 /* BRock-5.png */; };
-		84869EB42061C77200789F22 /* BRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E982061C77100789F22 /* BRock-4.png */; };
-		84869EB52061C77200789F22 /* BRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E992061C77100789F22 /* BRock-9.png */; };
-		84869EB62061C77200789F22 /* BRock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9A2061C77100789F22 /* BRock-14.png */; };
-		84869EB72061C77200789F22 /* BRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9B2061C77100789F22 /* BRock-4.png */; };
-		84869EB82061C77200789F22 /* BRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9C2061C77100789F22 /* BRock-1.png */; };
-		84869EB92061C77200789F22 /* BRock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9D2061C77100789F22 /* BRock-5.png */; };
-		84869EBA2061C77200789F22 /* BRock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9E2061C77100789F22 /* BRock-7.png */; };
-		84869EBB2061C77200789F22 /* BRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869E9F2061C77200789F22 /* BRock-8.png */; };
-		84869EBC2061C77200789F22 /* BRock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA02061C77200789F22 /* BRock-13.png */; };
-		84869EBD2061C77200789F22 /* BRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA12061C77200789F22 /* BRock-6.png */; };
-		84869EBE2061C77200789F22 /* BRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA22061C77200789F22 /* BRock-11.png */; };
-		84869EBF2061C77200789F22 /* BRock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA32061C77200789F22 /* BRock-10.png */; };
-		84869EC02061C77200789F22 /* BRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA42061C77200789F22 /* BRock-3.png */; };
-		84869EC12061C77200789F22 /* BRock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EA52061C77200789F22 /* BRock-12.png */; };
-		84869EE12061C77D00789F22 /* ARock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC22061C77B00789F22 /* ARock-4.png */; };
-		84869EE22061C77D00789F22 /* ARock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC42061C77B00789F22 /* ARock-1.png */; };
-		84869EE32061C77D00789F22 /* ARock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC52061C77B00789F22 /* ARock-2.png */; };
-		84869EE42061C77D00789F22 /* ARock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC62061C77B00789F22 /* ARock-3.png */; };
-		84869EE52061C77D00789F22 /* ARock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC72061C77B00789F22 /* ARock-7.png */; };
-		84869EE62061C77D00789F22 /* ARock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC82061C77B00789F22 /* ARock-6.png */; };
-		84869EE72061C77D00789F22 /* ARock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EC92061C77B00789F22 /* ARock-4.png */; };
-		84869EE82061C77D00789F22 /* ARock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECA2061C77B00789F22 /* ARock-5.png */; };
-		84869EE92061C77D00789F22 /* ARock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECB2061C77B00789F22 /* ARock-8.png */; };
-		84869EEA2061C77D00789F22 /* ARock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECC2061C77B00789F22 /* ARock-9.png */; };
-		84869EEB2061C77D00789F22 /* ARock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECD2061C77B00789F22 /* ARock-14.png */; };
-		84869EEC2061C77D00789F22 /* ARock-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECE2061C77B00789F22 /* ARock-15.png */; };
-		84869EED2061C77D00789F22 /* ARock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ECF2061C77B00789F22 /* ARock-11.png */; };
-		84869EEE2061C77D00789F22 /* ARock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED02061C77B00789F22 /* ARock-10.png */; };
-		84869EEF2061C77D00789F22 /* ARock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED12061C77B00789F22 /* ARock-12.png */; };
-		84869EF02061C77D00789F22 /* ARock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED22061C77B00789F22 /* ARock-13.png */; };
-		84869EF12061C77D00789F22 /* ARock-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED32061C77B00789F22 /* ARock-13.png */; };
-		84869EF22061C77D00789F22 /* ARock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED42061C77B00789F22 /* ARock-11.png */; };
-		84869EF32061C77D00789F22 /* ARock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED52061C77B00789F22 /* ARock-7.png */; };
-		84869EF42061C77D00789F22 /* ARock-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED62061C77B00789F22 /* ARock-15.png */; };
-		84869EF52061C77D00789F22 /* ARock-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED72061C77B00789F22 /* ARock-14.png */; };
-		84869EF62061C77D00789F22 /* ARock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED82061C77B00789F22 /* ARock-9.png */; };
-		84869EF72061C77D00789F22 /* ARock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869ED92061C77C00789F22 /* ARock-3.png */; };
-		84869EF82061C77D00789F22 /* ARock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDA2061C77C00789F22 /* ARock-8.png */; };
-		84869EF92061C77D00789F22 /* ARock-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDB2061C77C00789F22 /* ARock-10.png */; };
-		84869EFA2061C77D00789F22 /* ARock-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDC2061C77C00789F22 /* ARock-12.png */; };
-		84869EFB2061C77D00789F22 /* ARock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDD2061C77C00789F22 /* ARock-2.png */; };
-		84869EFC2061C77D00789F22 /* ARock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDE2061C77C00789F22 /* ARock-1.png */; };
-		84869EFD2061C77D00789F22 /* ARock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EDF2061C77C00789F22 /* ARock-6.png */; };
-		84869EFE2061C77D00789F22 /* ARock-5.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869EE02061C77C00789F22 /* ARock-5.png */; };
 		84869F0A2061C78300789F22 /* Rock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F002061C78300789F22 /* Rock-9.png */; };
 		84869F0B2061C78300789F22 /* Rock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F012061C78300789F22 /* Rock-8.png */; };
 		84869F0C2061C78300789F22 /* HRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F022061C78300789F22 /* HRock-4.png */; };
@@ -176,7 +50,6 @@
 		84869F112061C78300789F22 /* Rock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F072061C78300789F22 /* Rock-6.png */; };
 		84869F122061C78300789F22 /* Rock-7.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F082061C78300789F22 /* Rock-7.png */; };
 		84869F132061C78300789F22 /* Rock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F092061C78300789F22 /* Rock-3.png */; };
-		84869F152061CA5900789F22 /* button_arms.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F142061CA5900789F22 /* button_arms.png */; };
 		84869F172061CACB00789F22 /* button_arms-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F162061CACB00789F22 /* button_arms-2.png */; };
 		84869F232061F36500789F22 /* DRock-3.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F192061F36200789F22 /* DRock-3.png */; };
 		84869F242061F36500789F22 /* DRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 84869F1A2061F36200789F22 /* DRock-6.png */; };
@@ -213,8 +86,6 @@
 		849E17852069A886005FCD78 /* thirdrock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 849E17842069A886005FCD78 /* thirdrock.mp3 */; };
 		849E17892069B09B005FCD78 /* SPRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17882069B09B005FCD78 /* SPRock-1.png */; };
 		849E178B2069B0B9005FCD78 /* SPRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E178A2069B0B9005FCD78 /* SPRock-2.png */; };
-		849E178D2069B26D005FCD78 /* PRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E178C2069B26D005FCD78 /* PRock-6.png */; };
-		849E178F2069B27D005FCD78 /* PRock-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E178E2069B27D005FCD78 /* PRock-11.png */; };
 		849E17912069B432005FCD78 /* hotlikecomet.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 849E17902069B432005FCD78 /* hotlikecomet.mp3 */; };
 		849E17952069B603005FCD78 /* SDRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17942069B603005FCD78 /* SDRock-1.png */; };
 		849E17992069B649005FCD78 /* DRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17982069B649005FCD78 /* DRock-4.png */; };
@@ -231,11 +102,8 @@
 		849E17B22069C2EE005FCD78 /* SARock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17B12069C2EE005FCD78 /* SARock-2.png */; };
 		849E17B42069C3F1005FCD78 /* SCRock-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17B32069C3F1005FCD78 /* SCRock-2.png */; };
 		849E17B62069C416005FCD78 /* SCRock-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17B52069C416005FCD78 /* SCRock-1.png */; };
-		849E17B82069C433005FCD78 /* SRock-6.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17B72069C433005FCD78 /* SRock-6.png */; };
-		849E17BA2069C44D005FCD78 /* SRock-8.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17B92069C44D005FCD78 /* SRock-8.png */; };
 		849E17BC2069C47B005FCD78 /* youaretheking.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 849E17BB2069C47B005FCD78 /* youaretheking.mp3 */; };
 		849E17BE2069C56A005FCD78 /* SCRock-0.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17BD2069C569005FCD78 /* SCRock-0.png */; };
-		849E17C02069C57E005FCD78 /* SRock-9.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17BF2069C57E005FCD78 /* SRock-9.png */; };
 		849E17C22069C675005FCD78 /* carlikerock.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 849E17C12069C675005FCD78 /* carlikerock.mp3 */; };
 		849E17C42069C6BD005FCD78 /* SCARRock-0.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17C32069C6BD005FCD78 /* SCARRock-0.png */; };
 		849E17C62069C6D7005FCD78 /* CRock-4.png in Resources */ = {isa = PBXBuildFile; fileRef = 849E17C52069C6D7005FCD78 /* CRock-4.png */; };
@@ -271,6 +139,7 @@
 		84C38F6B206B2AE600B484C3 /* Chillout.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F6A206B2AE600B484C3 /* Chillout.mp3 */; };
 		84C38F6D206B2AFD00B484C3 /* TheJourneyAhead.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C38F6C206B2AFD00B484C3 /* TheJourneyAhead.mp3 */; };
 		84C38F6F206B2D1C00B484C3 /* ViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C38F6E206B2D1C00B484C3 /* ViewController8.swift */; };
+		84C38F71206B40C900B484C3 /* ViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C38F70206B40C900B484C3 /* ViewController9.swift */; };
 		84DD337C206A125E00BD75A8 /* championsmaylose.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */; };
 		84DD337E206A134900BD75A8 /* walktall.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337D206A134900BD75A8 /* walktall.mp3 */; };
 		84DD3380206A142E00BD75A8 /* oooo5.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84DD337F206A142E00BD75A8 /* oooo5.mp3 */; };
@@ -324,145 +193,19 @@
 		84869DCF2061C6F500789F22 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84869DD12061C6F500789F22 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84869DD82061C72800789F22 /* winterwayBGV2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = winterwayBGV2.jpg; sourceTree = "<group>"; };
-		84869DDA2061C73B00789F22 /* SRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-3.png"; path = "../Backgrounds/SRock-3.png"; sourceTree = "<group>"; };
-		84869DDB2061C73C00789F22 /* SRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-11.png"; path = "../Backgrounds/SRock-11.png"; sourceTree = "<group>"; };
-		84869DDC2061C73C00789F22 /* SRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-12.png"; path = "../Backgrounds/SRock-12.png"; sourceTree = "<group>"; };
-		84869DDE2061C73C00789F22 /* SRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-5.png"; path = "../Backgrounds/SRock-5.png"; sourceTree = "<group>"; };
-		84869DDF2061C73C00789F22 /* SRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-13.png"; path = "../Backgrounds/SRock-13.png"; sourceTree = "<group>"; };
-		84869DE02061C73C00789F22 /* SRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-2.png"; path = "../Backgrounds/SRock-2.png"; sourceTree = "<group>"; };
-		84869DE22061C73C00789F22 /* SRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-13.png"; sourceTree = "<group>"; };
-		84869DE32061C73C00789F22 /* SRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-7.png"; sourceTree = "<group>"; };
-		84869DE42061C73C00789F22 /* SRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-6.png"; sourceTree = "<group>"; };
-		84869DE52061C73C00789F22 /* SRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-12.png"; sourceTree = "<group>"; };
-		84869DE62061C73C00789F22 /* SRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-10.png"; sourceTree = "<group>"; };
-		84869DE72061C73C00789F22 /* SRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-4.png"; sourceTree = "<group>"; };
-		84869DE82061C73C00789F22 /* SRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-5.png"; sourceTree = "<group>"; };
-		84869DE92061C73C00789F22 /* SRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-11.png"; sourceTree = "<group>"; };
-		84869DEA2061C73C00789F22 /* SRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-1.png"; sourceTree = "<group>"; };
-		84869DEB2061C73C00789F22 /* SRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-14.png"; sourceTree = "<group>"; };
-		84869DEC2061C73C00789F22 /* SRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-2.png"; sourceTree = "<group>"; };
-		84869DED2061C73C00789F22 /* SRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-3.png"; sourceTree = "<group>"; };
-		84869DEE2061C73C00789F22 /* SRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-8.png"; sourceTree = "<group>"; };
-		84869DEF2061C73C00789F22 /* SRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-9.png"; sourceTree = "<group>"; };
-		84869DF02061C73C00789F22 /* SRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-4.png"; path = "../Backgrounds/SRock-4.png"; sourceTree = "<group>"; };
-		84869DF32061C73C00789F22 /* SRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-10.png"; path = "../Backgrounds/SRock-10.png"; sourceTree = "<group>"; };
-		84869DF42061C73D00789F22 /* SRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-14.png"; path = "../Backgrounds/SRock-14.png"; sourceTree = "<group>"; };
-		84869DF52061C73D00789F22 /* SRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-7.png"; path = "../Backgrounds/SRock-7.png"; sourceTree = "<group>"; };
-		84869DF62061C73D00789F22 /* SRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SRock-1.png"; path = "../Backgrounds/SRock-1.png"; sourceTree = "<group>"; };
 		84869E132061C75C00789F22 /* PRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-4.png"; sourceTree = "<group>"; };
-		84869E152061C75C00789F22 /* PRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-9.png"; sourceTree = "<group>"; };
-		84869E162061C75C00789F22 /* PRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-8.png"; sourceTree = "<group>"; };
-		84869E172061C75C00789F22 /* PRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-6.png"; sourceTree = "<group>"; };
-		84869E182061C75C00789F22 /* PRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-14.png"; sourceTree = "<group>"; };
-		84869E192061C75C00789F22 /* PRock-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-15.png"; sourceTree = "<group>"; };
-		84869E1A2061C75C00789F22 /* PRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-7.png"; sourceTree = "<group>"; };
-		84869E1B2061C75C00789F22 /* PRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-5.png"; sourceTree = "<group>"; };
-		84869E1C2061C75C00789F22 /* PRock-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-17.png"; sourceTree = "<group>"; };
-		84869E1D2061C75C00789F22 /* PRock-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-16.png"; sourceTree = "<group>"; };
-		84869E1E2061C75C00789F22 /* PRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-4.png"; sourceTree = "<group>"; };
-		84869E1F2061C75C00789F22 /* PRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-12.png"; sourceTree = "<group>"; };
-		84869E202061C75C00789F22 /* PRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-13.png"; sourceTree = "<group>"; };
-		84869E212061C75C00789F22 /* PRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-1.png"; sourceTree = "<group>"; };
-		84869E222061C75C00789F22 /* PRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-3.png"; sourceTree = "<group>"; };
-		84869E232061C75C00789F22 /* PRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-11.png"; sourceTree = "<group>"; };
-		84869E242061C75C00789F22 /* PRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-10.png"; sourceTree = "<group>"; };
-		84869E252061C75C00789F22 /* PRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-2.png"; sourceTree = "<group>"; };
 		84869E262061C75C00789F22 /* PRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-5.png"; sourceTree = "<group>"; };
 		84869E292061C75D00789F22 /* PRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-13.png"; sourceTree = "<group>"; };
 		84869E2A2061C75D00789F22 /* PRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-7.png"; sourceTree = "<group>"; };
 		84869E2B2061C75D00789F22 /* PRock-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-15.png"; sourceTree = "<group>"; };
 		84869E2C2061C75D00789F22 /* PRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-1.png"; sourceTree = "<group>"; };
-		84869E2D2061C75D00789F22 /* PRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-2.png"; sourceTree = "<group>"; };
 		84869E2E2061C75D00789F22 /* PRock-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-17.png"; sourceTree = "<group>"; };
 		84869E2F2061C75D00789F22 /* PRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-14.png"; sourceTree = "<group>"; };
 		84869E302061C75D00789F22 /* PRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-3.png"; sourceTree = "<group>"; };
 		84869E312061C75D00789F22 /* PRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-9.png"; sourceTree = "<group>"; };
-		84869E322061C75D00789F22 /* PRock-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-16.png"; sourceTree = "<group>"; };
 		84869E332061C75E00789F22 /* PRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-12.png"; sourceTree = "<group>"; };
 		84869E342061C75E00789F22 /* PRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-10.png"; sourceTree = "<group>"; };
 		84869E352061C75E00789F22 /* PRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PRock-8.png"; sourceTree = "<group>"; };
-		84869E582061C76800789F22 /* ERock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-6.png"; path = "../My Pet The Rock/eyeimages/ERock-6.png"; sourceTree = "<group>"; };
-		84869E5A2061C76800789F22 /* ERock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-8.png"; sourceTree = "<group>"; };
-		84869E5B2061C76800789F22 /* ERock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-12.png"; sourceTree = "<group>"; };
-		84869E5C2061C76800789F22 /* ERock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-9.png"; sourceTree = "<group>"; };
-		84869E5D2061C76800789F22 /* ERock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-11.png"; sourceTree = "<group>"; };
-		84869E5E2061C76800789F22 /* ERock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-10.png"; sourceTree = "<group>"; };
-		84869E5F2061C76800789F22 /* ERock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-7.png"; sourceTree = "<group>"; };
-		84869E602061C76800789F22 /* ERock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-6.png"; sourceTree = "<group>"; };
-		84869E612061C76800789F22 /* ERock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-4.png"; sourceTree = "<group>"; };
-		84869E622061C76800789F22 /* ERock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-5.png"; sourceTree = "<group>"; };
-		84869E632061C76800789F22 /* ERock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-1.png"; sourceTree = "<group>"; };
-		84869E642061C76800789F22 /* ERock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-2.png"; sourceTree = "<group>"; };
-		84869E652061C76800789F22 /* ERock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ERock-3.png"; sourceTree = "<group>"; };
-		84869E662061C76800789F22 /* ERock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-1.png"; path = "../My Pet The Rock/eyeimages/ERock-1.png"; sourceTree = "<group>"; };
-		84869E672061C76800789F22 /* ERock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-7.png"; path = "../My Pet The Rock/eyeimages/ERock-7.png"; sourceTree = "<group>"; };
-		84869E682061C76800789F22 /* ERock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-9.png"; path = "../My Pet The Rock/eyeimages/ERock-9.png"; sourceTree = "<group>"; };
-		84869E692061C76900789F22 /* ERock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-8.png"; path = "../My Pet The Rock/eyeimages/ERock-8.png"; sourceTree = "<group>"; };
-		84869E6A2061C76900789F22 /* ERock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-11.png"; path = "../My Pet The Rock/eyeimages/ERock-11.png"; sourceTree = "<group>"; };
-		84869E6B2061C76900789F22 /* ERock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-2.png"; path = "../My Pet The Rock/eyeimages/ERock-2.png"; sourceTree = "<group>"; };
-		84869E6C2061C76900789F22 /* ERock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-4.png"; path = "../My Pet The Rock/eyeimages/ERock-4.png"; sourceTree = "<group>"; };
-		84869E6D2061C76900789F22 /* ERock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-5.png"; path = "../My Pet The Rock/eyeimages/ERock-5.png"; sourceTree = "<group>"; };
-		84869E6E2061C76900789F22 /* ERock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-10.png"; path = "../My Pet The Rock/eyeimages/ERock-10.png"; sourceTree = "<group>"; };
-		84869E6F2061C76900789F22 /* ERock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-12.png"; path = "../My Pet The Rock/eyeimages/ERock-12.png"; sourceTree = "<group>"; };
-		84869E702061C76900789F22 /* ERock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ERock-3.png"; path = "../My Pet The Rock/eyeimages/ERock-3.png"; sourceTree = "<group>"; };
-		84869E892061C77100789F22 /* BRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-2.png"; path = "../My Pet The Rock/browimages/BRock-2.png"; sourceTree = "<group>"; };
-		84869E8B2061C77100789F22 /* BRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-9.png"; sourceTree = "<group>"; };
-		84869E8C2061C77100789F22 /* BRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-10.png"; sourceTree = "<group>"; };
-		84869E8D2061C77100789F22 /* BRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-11.png"; sourceTree = "<group>"; };
-		84869E8E2061C77100789F22 /* BRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-8.png"; sourceTree = "<group>"; };
-		84869E8F2061C77100789F22 /* BRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-13.png"; sourceTree = "<group>"; };
-		84869E902061C77100789F22 /* BRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-12.png"; sourceTree = "<group>"; };
-		84869E912061C77100789F22 /* BRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-14.png"; sourceTree = "<group>"; };
-		84869E922061C77100789F22 /* BRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-1.png"; sourceTree = "<group>"; };
-		84869E932061C77100789F22 /* BRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-3.png"; sourceTree = "<group>"; };
-		84869E942061C77100789F22 /* BRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-2.png"; sourceTree = "<group>"; };
-		84869E952061C77100789F22 /* BRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-6.png"; sourceTree = "<group>"; };
-		84869E962061C77100789F22 /* BRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-7.png"; sourceTree = "<group>"; };
-		84869E972061C77100789F22 /* BRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-5.png"; sourceTree = "<group>"; };
-		84869E982061C77100789F22 /* BRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "BRock-4.png"; sourceTree = "<group>"; };
-		84869E992061C77100789F22 /* BRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-9.png"; path = "../My Pet The Rock/browimages/BRock-9.png"; sourceTree = "<group>"; };
-		84869E9A2061C77100789F22 /* BRock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-14.png"; path = "../My Pet The Rock/browimages/BRock-14.png"; sourceTree = "<group>"; };
-		84869E9B2061C77100789F22 /* BRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-4.png"; path = "../My Pet The Rock/browimages/BRock-4.png"; sourceTree = "<group>"; };
-		84869E9C2061C77100789F22 /* BRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-1.png"; path = "../My Pet The Rock/browimages/BRock-1.png"; sourceTree = "<group>"; };
-		84869E9D2061C77100789F22 /* BRock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-5.png"; path = "../My Pet The Rock/browimages/BRock-5.png"; sourceTree = "<group>"; };
-		84869E9E2061C77100789F22 /* BRock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-7.png"; path = "../My Pet The Rock/browimages/BRock-7.png"; sourceTree = "<group>"; };
-		84869E9F2061C77200789F22 /* BRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-8.png"; path = "../My Pet The Rock/browimages/BRock-8.png"; sourceTree = "<group>"; };
-		84869EA02061C77200789F22 /* BRock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-13.png"; path = "../My Pet The Rock/browimages/BRock-13.png"; sourceTree = "<group>"; };
-		84869EA12061C77200789F22 /* BRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-6.png"; path = "../My Pet The Rock/browimages/BRock-6.png"; sourceTree = "<group>"; };
-		84869EA22061C77200789F22 /* BRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-11.png"; path = "../My Pet The Rock/browimages/BRock-11.png"; sourceTree = "<group>"; };
-		84869EA32061C77200789F22 /* BRock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-10.png"; path = "../My Pet The Rock/browimages/BRock-10.png"; sourceTree = "<group>"; };
-		84869EA42061C77200789F22 /* BRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-3.png"; path = "../My Pet The Rock/browimages/BRock-3.png"; sourceTree = "<group>"; };
-		84869EA52061C77200789F22 /* BRock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "BRock-12.png"; path = "../My Pet The Rock/browimages/BRock-12.png"; sourceTree = "<group>"; };
-		84869EC22061C77B00789F22 /* ARock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-4.png"; path = "../My Pet The Rock/armimages/ARock-4.png"; sourceTree = "<group>"; };
-		84869EC42061C77B00789F22 /* ARock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-1.png"; sourceTree = "<group>"; };
-		84869EC52061C77B00789F22 /* ARock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-2.png"; sourceTree = "<group>"; };
-		84869EC62061C77B00789F22 /* ARock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-3.png"; sourceTree = "<group>"; };
-		84869EC72061C77B00789F22 /* ARock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-7.png"; sourceTree = "<group>"; };
-		84869EC82061C77B00789F22 /* ARock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-6.png"; sourceTree = "<group>"; };
-		84869EC92061C77B00789F22 /* ARock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-4.png"; sourceTree = "<group>"; };
-		84869ECA2061C77B00789F22 /* ARock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-5.png"; sourceTree = "<group>"; };
-		84869ECB2061C77B00789F22 /* ARock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-8.png"; sourceTree = "<group>"; };
-		84869ECC2061C77B00789F22 /* ARock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-9.png"; sourceTree = "<group>"; };
-		84869ECD2061C77B00789F22 /* ARock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-14.png"; sourceTree = "<group>"; };
-		84869ECE2061C77B00789F22 /* ARock-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-15.png"; sourceTree = "<group>"; };
-		84869ECF2061C77B00789F22 /* ARock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-11.png"; sourceTree = "<group>"; };
-		84869ED02061C77B00789F22 /* ARock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-10.png"; sourceTree = "<group>"; };
-		84869ED12061C77B00789F22 /* ARock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-12.png"; sourceTree = "<group>"; };
-		84869ED22061C77B00789F22 /* ARock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ARock-13.png"; sourceTree = "<group>"; };
-		84869ED32061C77B00789F22 /* ARock-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-13.png"; path = "../My Pet The Rock/armimages/ARock-13.png"; sourceTree = "<group>"; };
-		84869ED42061C77B00789F22 /* ARock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-11.png"; path = "../My Pet The Rock/armimages/ARock-11.png"; sourceTree = "<group>"; };
-		84869ED52061C77B00789F22 /* ARock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-7.png"; path = "../My Pet The Rock/armimages/ARock-7.png"; sourceTree = "<group>"; };
-		84869ED62061C77B00789F22 /* ARock-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-15.png"; path = "../My Pet The Rock/armimages/ARock-15.png"; sourceTree = "<group>"; };
-		84869ED72061C77B00789F22 /* ARock-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-14.png"; path = "../My Pet The Rock/armimages/ARock-14.png"; sourceTree = "<group>"; };
-		84869ED82061C77B00789F22 /* ARock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-9.png"; path = "../My Pet The Rock/armimages/ARock-9.png"; sourceTree = "<group>"; };
-		84869ED92061C77C00789F22 /* ARock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-3.png"; path = "../My Pet The Rock/armimages/ARock-3.png"; sourceTree = "<group>"; };
-		84869EDA2061C77C00789F22 /* ARock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-8.png"; path = "../My Pet The Rock/armimages/ARock-8.png"; sourceTree = "<group>"; };
-		84869EDB2061C77C00789F22 /* ARock-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-10.png"; path = "../My Pet The Rock/armimages/ARock-10.png"; sourceTree = "<group>"; };
-		84869EDC2061C77C00789F22 /* ARock-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-12.png"; path = "../My Pet The Rock/armimages/ARock-12.png"; sourceTree = "<group>"; };
-		84869EDD2061C77C00789F22 /* ARock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-2.png"; path = "../My Pet The Rock/armimages/ARock-2.png"; sourceTree = "<group>"; };
-		84869EDE2061C77C00789F22 /* ARock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-1.png"; path = "../My Pet The Rock/armimages/ARock-1.png"; sourceTree = "<group>"; };
-		84869EDF2061C77C00789F22 /* ARock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-6.png"; path = "../My Pet The Rock/armimages/ARock-6.png"; sourceTree = "<group>"; };
-		84869EE02061C77C00789F22 /* ARock-5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "ARock-5.png"; path = "../My Pet The Rock/armimages/ARock-5.png"; sourceTree = "<group>"; };
 		84869F002061C78300789F22 /* Rock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rock-9.png"; sourceTree = "<group>"; };
 		84869F012061C78300789F22 /* Rock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rock-8.png"; sourceTree = "<group>"; };
 		84869F022061C78300789F22 /* HRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "HRock-4.png"; sourceTree = "<group>"; };
@@ -473,7 +216,6 @@
 		84869F072061C78300789F22 /* Rock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rock-6.png"; sourceTree = "<group>"; };
 		84869F082061C78300789F22 /* Rock-7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rock-7.png"; sourceTree = "<group>"; };
 		84869F092061C78300789F22 /* Rock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Rock-3.png"; sourceTree = "<group>"; };
-		84869F142061CA5900789F22 /* button_arms.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = button_arms.png; sourceTree = "<group>"; };
 		84869F162061CACB00789F22 /* button_arms-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "button_arms-2.png"; sourceTree = "<group>"; };
 		84869F192061F36200789F22 /* DRock-3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DRock-3.png"; sourceTree = "<group>"; };
 		84869F1A2061F36200789F22 /* DRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DRock-6.png"; sourceTree = "<group>"; };
@@ -510,8 +252,6 @@
 		849E17842069A886005FCD78 /* thirdrock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = thirdrock.mp3; sourceTree = "<group>"; };
 		849E17882069B09B005FCD78 /* SPRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SPRock-1.png"; sourceTree = SOURCE_ROOT; };
 		849E178A2069B0B9005FCD78 /* SPRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SPRock-2.png"; sourceTree = SOURCE_ROOT; };
-		849E178C2069B26D005FCD78 /* PRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "PRock-6.png"; path = "pecimages/PRock-6.png"; sourceTree = "<group>"; };
-		849E178E2069B27D005FCD78 /* PRock-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "PRock-11.png"; path = "pecimages/PRock-11.png"; sourceTree = "<group>"; };
 		849E17902069B432005FCD78 /* hotlikecomet.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hotlikecomet.mp3; sourceTree = "<group>"; };
 		849E17942069B603005FCD78 /* SDRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SDRock-1.png"; path = "beltimages/SDRock-1.png"; sourceTree = SOURCE_ROOT; };
 		849E17982069B649005FCD78 /* DRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "DRock-4.png"; sourceTree = "<group>"; };
@@ -531,11 +271,8 @@
 		849E17B12069C2EE005FCD78 /* SARock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SARock-2.png"; sourceTree = "<group>"; };
 		849E17B32069C3F1005FCD78 /* SCRock-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SCRock-2.png"; path = "Backgrounds/SCRock-2.png"; sourceTree = SOURCE_ROOT; };
 		849E17B52069C416005FCD78 /* SCRock-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SCRock-1.png"; path = "Backgrounds/SCRock-1.png"; sourceTree = SOURCE_ROOT; };
-		849E17B72069C433005FCD78 /* SRock-6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-6.png"; sourceTree = "<group>"; };
-		849E17B92069C44D005FCD78 /* SRock-8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-8.png"; sourceTree = "<group>"; };
 		849E17BB2069C47B005FCD78 /* youaretheking.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = youaretheking.mp3; sourceTree = "<group>"; };
 		849E17BD2069C569005FCD78 /* SCRock-0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SCRock-0.png"; path = "Backgrounds/SCRock-0.png"; sourceTree = SOURCE_ROOT; };
-		849E17BF2069C57E005FCD78 /* SRock-9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "SRock-9.png"; sourceTree = "<group>"; };
 		849E17C12069C675005FCD78 /* carlikerock.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = carlikerock.mp3; sourceTree = "<group>"; };
 		849E17C32069C6BD005FCD78 /* SCARRock-0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "SCARRock-0.png"; path = "carimages/SCARRock-0.png"; sourceTree = SOURCE_ROOT; };
 		849E17C52069C6D7005FCD78 /* CRock-4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "CRock-4.png"; sourceTree = "<group>"; };
@@ -571,6 +308,7 @@
 		84C38F6A206B2AE600B484C3 /* Chillout.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = Chillout.mp3; sourceTree = "<group>"; };
 		84C38F6C206B2AFD00B484C3 /* TheJourneyAhead.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = TheJourneyAhead.mp3; sourceTree = "<group>"; };
 		84C38F6E206B2D1C00B484C3 /* ViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController8.swift; sourceTree = "<group>"; };
+		84C38F70206B40C900B484C3 /* ViewController9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController9.swift; sourceTree = "<group>"; };
 		84DD337B206A125D00BD75A8 /* championsmaylose.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = championsmaylose.mp3; sourceTree = "<group>"; };
 		84DD337D206A134900BD75A8 /* walktall.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = walktall.mp3; sourceTree = "<group>"; };
 		84DD337F206A142E00BD75A8 /* oooo5.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = oooo5.mp3; sourceTree = "<group>"; };
@@ -652,67 +390,22 @@
 				84869F182061F32D00789F22 /* beltimages */,
 				84869EFF2061C78300789F22 /* images */,
 				84869EC32061C77B00789F22 /* armimages */,
-				84869EDE2061C77C00789F22 /* ARock-1.png */,
-				84869EDD2061C77C00789F22 /* ARock-2.png */,
-				84869ED92061C77C00789F22 /* ARock-3.png */,
-				84869EC22061C77B00789F22 /* ARock-4.png */,
-				84869EE02061C77C00789F22 /* ARock-5.png */,
-				84869EDF2061C77C00789F22 /* ARock-6.png */,
-				84869ED52061C77B00789F22 /* ARock-7.png */,
-				84869EDA2061C77C00789F22 /* ARock-8.png */,
-				84869ED82061C77B00789F22 /* ARock-9.png */,
-				84869EDB2061C77C00789F22 /* ARock-10.png */,
-				84869ED42061C77B00789F22 /* ARock-11.png */,
-				84869EDC2061C77C00789F22 /* ARock-12.png */,
-				84869ED32061C77B00789F22 /* ARock-13.png */,
-				84869ED72061C77B00789F22 /* ARock-14.png */,
-				84869ED62061C77B00789F22 /* ARock-15.png */,
 				84869E8A2061C77100789F22 /* browimages */,
-				84869E9C2061C77100789F22 /* BRock-1.png */,
-				84869E892061C77100789F22 /* BRock-2.png */,
-				84869EA42061C77200789F22 /* BRock-3.png */,
-				84869E9B2061C77100789F22 /* BRock-4.png */,
-				84869E9D2061C77100789F22 /* BRock-5.png */,
-				84869EA12061C77200789F22 /* BRock-6.png */,
-				84869E9E2061C77100789F22 /* BRock-7.png */,
-				84869E9F2061C77200789F22 /* BRock-8.png */,
-				84869E992061C77100789F22 /* BRock-9.png */,
-				84869EA32061C77200789F22 /* BRock-10.png */,
-				84869EA22061C77200789F22 /* BRock-11.png */,
-				84869EA52061C77200789F22 /* BRock-12.png */,
-				84869EA02061C77200789F22 /* BRock-13.png */,
-				84869E9A2061C77100789F22 /* BRock-14.png */,
 				84869E592061C76800789F22 /* eyeimages */,
-				84869E662061C76800789F22 /* ERock-1.png */,
-				84869E6B2061C76900789F22 /* ERock-2.png */,
-				84869E702061C76900789F22 /* ERock-3.png */,
-				84869E6C2061C76900789F22 /* ERock-4.png */,
-				84869E6D2061C76900789F22 /* ERock-5.png */,
-				84869E582061C76800789F22 /* ERock-6.png */,
-				84869E672061C76800789F22 /* ERock-7.png */,
-				84869E692061C76900789F22 /* ERock-8.png */,
-				84869E682061C76800789F22 /* ERock-9.png */,
-				84869E6E2061C76900789F22 /* ERock-10.png */,
-				84869E6A2061C76900789F22 /* ERock-11.png */,
-				84869E6F2061C76900789F22 /* ERock-12.png */,
 				84869F162061CACB00789F22 /* button_arms-2.png */,
 				84869E142061C75C00789F22 /* pecimages */,
 				84869E2C2061C75D00789F22 /* PRock-1.png */,
-				84869E2D2061C75D00789F22 /* PRock-2.png */,
 				84869E302061C75D00789F22 /* PRock-3.png */,
 				84869E132061C75C00789F22 /* PRock-4.png */,
 				84869E262061C75C00789F22 /* PRock-5.png */,
-				849E178C2069B26D005FCD78 /* PRock-6.png */,
 				84869E2A2061C75D00789F22 /* PRock-7.png */,
 				84869E352061C75E00789F22 /* PRock-8.png */,
 				84869E312061C75D00789F22 /* PRock-9.png */,
 				84869E342061C75E00789F22 /* PRock-10.png */,
-				849E178E2069B27D005FCD78 /* PRock-11.png */,
 				84869E332061C75E00789F22 /* PRock-12.png */,
 				84869E292061C75D00789F22 /* PRock-13.png */,
 				84869E2F2061C75D00789F22 /* PRock-14.png */,
 				84869E2B2061C75D00789F22 /* PRock-15.png */,
-				84869E322061C75D00789F22 /* PRock-16.png */,
 				84869E2E2061C75D00789F22 /* PRock-17.png */,
 				84869DE12061C73C00789F22 /* scorpionimages */,
 				84869DD72061C71800789F22 /* Backgrounds */,
@@ -740,6 +433,7 @@
 				849E17122064D208005FCD78 /* ViewController6.swift */,
 				849E17142064D595005FCD78 /* ViewController7.swift */,
 				84C38F6E206B2D1C00B484C3 /* ViewController8.swift */,
+				84C38F70206B40C900B484C3 /* ViewController9.swift */,
 				84869DC62061C6F500789F22 /* Main.storyboard */,
 				84869DCC2061C6F500789F22 /* Assets.xcassets */,
 				84869DCE2061C6F500789F22 /* LaunchScreen.storyboard */,
@@ -767,34 +461,6 @@
 		84869DE12061C73C00789F22 /* scorpionimages */ = {
 			isa = PBXGroup;
 			children = (
-				84869DF62061C73D00789F22 /* SRock-1.png */,
-				84869DE02061C73C00789F22 /* SRock-2.png */,
-				84869DDA2061C73B00789F22 /* SRock-3.png */,
-				84869DF02061C73C00789F22 /* SRock-4.png */,
-				84869DDE2061C73C00789F22 /* SRock-5.png */,
-				849E17B72069C433005FCD78 /* SRock-6.png */,
-				84869DF52061C73D00789F22 /* SRock-7.png */,
-				849E17B92069C44D005FCD78 /* SRock-8.png */,
-				849E17BF2069C57E005FCD78 /* SRock-9.png */,
-				84869DF32061C73C00789F22 /* SRock-10.png */,
-				84869DDB2061C73C00789F22 /* SRock-11.png */,
-				84869DDC2061C73C00789F22 /* SRock-12.png */,
-				84869DDF2061C73C00789F22 /* SRock-13.png */,
-				84869DF42061C73D00789F22 /* SRock-14.png */,
-				84869DE22061C73C00789F22 /* SRock-13.png */,
-				84869DE32061C73C00789F22 /* SRock-7.png */,
-				84869DE42061C73C00789F22 /* SRock-6.png */,
-				84869DE52061C73C00789F22 /* SRock-12.png */,
-				84869DE62061C73C00789F22 /* SRock-10.png */,
-				84869DE72061C73C00789F22 /* SRock-4.png */,
-				84869DE82061C73C00789F22 /* SRock-5.png */,
-				84869DE92061C73C00789F22 /* SRock-11.png */,
-				84869DEA2061C73C00789F22 /* SRock-1.png */,
-				84869DEB2061C73C00789F22 /* SRock-14.png */,
-				84869DEC2061C73C00789F22 /* SRock-2.png */,
-				84869DED2061C73C00789F22 /* SRock-3.png */,
-				84869DEE2061C73C00789F22 /* SRock-8.png */,
-				84869DEF2061C73C00789F22 /* SRock-9.png */,
 			);
 			path = scorpionimages;
 			sourceTree = "<group>";
@@ -802,23 +468,6 @@
 		84869E142061C75C00789F22 /* pecimages */ = {
 			isa = PBXGroup;
 			children = (
-				84869E152061C75C00789F22 /* PRock-9.png */,
-				84869E162061C75C00789F22 /* PRock-8.png */,
-				84869E172061C75C00789F22 /* PRock-6.png */,
-				84869E182061C75C00789F22 /* PRock-14.png */,
-				84869E192061C75C00789F22 /* PRock-15.png */,
-				84869E1A2061C75C00789F22 /* PRock-7.png */,
-				84869E1B2061C75C00789F22 /* PRock-5.png */,
-				84869E1C2061C75C00789F22 /* PRock-17.png */,
-				84869E1D2061C75C00789F22 /* PRock-16.png */,
-				84869E1E2061C75C00789F22 /* PRock-4.png */,
-				84869E1F2061C75C00789F22 /* PRock-12.png */,
-				84869E202061C75C00789F22 /* PRock-13.png */,
-				84869E212061C75C00789F22 /* PRock-1.png */,
-				84869E222061C75C00789F22 /* PRock-3.png */,
-				84869E232061C75C00789F22 /* PRock-11.png */,
-				84869E242061C75C00789F22 /* PRock-10.png */,
-				84869E252061C75C00789F22 /* PRock-2.png */,
 			);
 			path = pecimages;
 			sourceTree = "<group>";
@@ -826,18 +475,6 @@
 		84869E592061C76800789F22 /* eyeimages */ = {
 			isa = PBXGroup;
 			children = (
-				84869E5A2061C76800789F22 /* ERock-8.png */,
-				84869E5B2061C76800789F22 /* ERock-12.png */,
-				84869E5C2061C76800789F22 /* ERock-9.png */,
-				84869E5D2061C76800789F22 /* ERock-11.png */,
-				84869E5E2061C76800789F22 /* ERock-10.png */,
-				84869E5F2061C76800789F22 /* ERock-7.png */,
-				84869E602061C76800789F22 /* ERock-6.png */,
-				84869E612061C76800789F22 /* ERock-4.png */,
-				84869E622061C76800789F22 /* ERock-5.png */,
-				84869E632061C76800789F22 /* ERock-1.png */,
-				84869E642061C76800789F22 /* ERock-2.png */,
-				84869E652061C76800789F22 /* ERock-3.png */,
 			);
 			name = eyeimages;
 			path = "../My Pet The Rock/eyeimages";
@@ -846,20 +483,6 @@
 		84869E8A2061C77100789F22 /* browimages */ = {
 			isa = PBXGroup;
 			children = (
-				84869E8B2061C77100789F22 /* BRock-9.png */,
-				84869E8C2061C77100789F22 /* BRock-10.png */,
-				84869E8D2061C77100789F22 /* BRock-11.png */,
-				84869E8E2061C77100789F22 /* BRock-8.png */,
-				84869E8F2061C77100789F22 /* BRock-13.png */,
-				84869E902061C77100789F22 /* BRock-12.png */,
-				84869E912061C77100789F22 /* BRock-14.png */,
-				84869E922061C77100789F22 /* BRock-1.png */,
-				84869E932061C77100789F22 /* BRock-3.png */,
-				84869E942061C77100789F22 /* BRock-2.png */,
-				84869E952061C77100789F22 /* BRock-6.png */,
-				84869E962061C77100789F22 /* BRock-7.png */,
-				84869E972061C77100789F22 /* BRock-5.png */,
-				84869E982061C77100789F22 /* BRock-4.png */,
 			);
 			name = browimages;
 			path = "../My Pet The Rock/browimages";
@@ -868,21 +491,6 @@
 		84869EC32061C77B00789F22 /* armimages */ = {
 			isa = PBXGroup;
 			children = (
-				84869EC42061C77B00789F22 /* ARock-1.png */,
-				84869EC52061C77B00789F22 /* ARock-2.png */,
-				84869EC62061C77B00789F22 /* ARock-3.png */,
-				84869EC72061C77B00789F22 /* ARock-7.png */,
-				84869EC82061C77B00789F22 /* ARock-6.png */,
-				84869EC92061C77B00789F22 /* ARock-4.png */,
-				84869ECA2061C77B00789F22 /* ARock-5.png */,
-				84869ECB2061C77B00789F22 /* ARock-8.png */,
-				84869ECC2061C77B00789F22 /* ARock-9.png */,
-				84869ECD2061C77B00789F22 /* ARock-14.png */,
-				84869ECE2061C77B00789F22 /* ARock-15.png */,
-				84869ECF2061C77B00789F22 /* ARock-11.png */,
-				84869ED02061C77B00789F22 /* ARock-10.png */,
-				84869ED12061C77B00789F22 /* ARock-12.png */,
-				84869ED22061C77B00789F22 /* ARock-13.png */,
 			);
 			name = armimages;
 			path = "../My Pet The Rock/armimages";
@@ -891,7 +499,6 @@
 		84869EFF2061C78300789F22 /* images */ = {
 			isa = PBXGroup;
 			children = (
-				84869F142061CA5900789F22 /* button_arms.png */,
 				84869F002061C78300789F22 /* Rock-9.png */,
 				84869F012061C78300789F22 /* Rock-8.png */,
 				84869F022061C78300789F22 /* HRock-4.png */,
@@ -1108,7 +715,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0920;
 				LastUpgradeCheck = 0920;
-				ORGANIZATIONNAME = "Joey Newfield";
+				ORGANIZATIONNAME = "The Pursuit of Appiness";
 				TargetAttributes = {
 					84869DBE2061C6F500789F22 = {
 						CreatedOnToolsVersion = 9.2;
@@ -1144,45 +751,27 @@
 				84869E512061C75E00789F22 /* PRock-14.png in Resources */,
 				8473835F206A3CEF008D9EAD /* WPRock-2.png in Resources */,
 				84C38F67206B2A6D00B484C3 /* ClapTrap.mp3 in Resources */,
-				84869EE62061C77D00789F22 /* ARock-6.png in Resources */,
-				84869EF02061C77D00789F22 /* ARock-13.png in Resources */,
 				84869F0D2061C78300789F22 /* ORock-1.png in Resources */,
 				849E178B2069B0B9005FCD78 /* SPRock-2.png in Resources */,
 				849E17C22069C675005FCD78 /* carlikerock.mp3 in Resources */,
 				84869E4E2061C75E00789F22 /* PRock-1.png in Resources */,
-				84869E422061C75E00789F22 /* PRock-13.png in Resources */,
-				84869E772061C76900789F22 /* ERock-7.png in Resources */,
 				84C38F61206B273B00B484C3 /* CinematicHipHop.mp3 in Resources */,
 				84869E4D2061C75E00789F22 /* PRock-15.png in Resources */,
-				84869EFB2061C77D00789F22 /* ARock-2.png in Resources */,
-				84869EFD2061C77D00789F22 /* ARock-6.png in Resources */,
 				84DD3385206A16A600BD75A8 /* elvis.mp3 in Resources */,
-				84869E092061C73D00789F22 /* SRock-3.png in Resources */,
-				84869E802061C76900789F22 /* ERock-9.png in Resources */,
 				84C38F58206A452B00B484C3 /* WARock-2.png in Resources */,
 				849E17C62069C6D7005FCD78 /* CRock-4.png in Resources */,
 				849E17C42069C6BD005FCD78 /* SCARRock-0.png in Resources */,
 				84869F252061F36500789F22 /* DRock-7.png in Resources */,
 				849E17A12069BA71005FCD78 /* oooo9.mp3 in Resources */,
-				84869EFE2061C77D00789F22 /* ARock-5.png in Resources */,
-				84869EEE2061C77D00789F22 /* ARock-10.png in Resources */,
-				84869E402061C75E00789F22 /* PRock-4.png in Resources */,
 				84869F3D2061F46E00789F22 /* CRock-5.png in Resources */,
-				84869EB32061C77200789F22 /* BRock-5.png in Resources */,
-				84869EA92061C77200789F22 /* BRock-11.png in Resources */,
 				84C38F6B206B2AE600B484C3 /* Chillout.mp3 in Resources */,
 				84869F412061F46E00789F22 /* CRock-8.png in Resources */,
-				84869DF92061C73D00789F22 /* SRock-12.png in Resources */,
 				849E17C82069C6E8005FCD78 /* SCARRock-1.png in Resources */,
 				849E17912069B432005FCD78 /* hotlikecomet.mp3 in Resources */,
-				84869EE32061C77D00789F22 /* ARock-2.png in Resources */,
 				84C38F56206A451A00B484C3 /* WARock-1.png in Resources */,
-				849E178F2069B27D005FCD78 /* PRock-11.png in Resources */,
-				84869E812061C76900789F22 /* ERock-8.png in Resources */,
 				849E17D52069FDCE005FCD78 /* rockchamp.mp3 in Resources */,
 				84738361206A3DC9008D9EAD /* WBRock-1.png in Resources */,
 				84869F472062086100789F22 /* space.jpg in Resources */,
-				84869E792061C76900789F22 /* ERock-4.png in Resources */,
 				84869E522061C75E00789F22 /* PRock-3.png in Resources */,
 				849E17CA2069C6FF005FCD78 /* SCARRock-2.png in Resources */,
 				84F4007C206A29AC008342D8 /* skiphumans.mp3 in Resources */,
@@ -1193,40 +782,20 @@
 				84738359206A3BBF008D9EAD /* WCRock-1.png in Resources */,
 				849E17AC2069C08A005FCD78 /* SERock-2.png in Resources */,
 				84869F0C2061C78300789F22 /* HRock-4.png in Resources */,
-				84869E432061C75E00789F22 /* PRock-1.png in Resources */,
-				84869E3C2061C75E00789F22 /* PRock-7.png in Resources */,
 				849E17B02069C2DC005FCD78 /* SARock-1.png in Resources */,
 				84F40074206A24CB008342D8 /* neverhitrockbottom.mp3 in Resources */,
-				84869E712061C76900789F22 /* ERock-6.png in Resources */,
-				84869E462061C75E00789F22 /* PRock-10.png in Resources */,
-				84869DF72061C73D00789F22 /* SRock-3.png in Resources */,
-				84869EF32061C77D00789F22 /* ARock-7.png in Resources */,
-				84869E062061C73D00789F22 /* SRock-1.png in Resources */,
-				84869E7F2061C76900789F22 /* ERock-7.png in Resources */,
 				84869F0F2061C78300789F22 /* HRock-3.png in Resources */,
 				849E17E3206A02EF005FCD78 /* nothingstingstherock.mp3 in Resources */,
 				84869E562061C75E00789F22 /* PRock-10.png in Resources */,
-				84869EEC2061C77D00789F22 /* ARock-15.png in Resources */,
-				84869EAF2061C77200789F22 /* BRock-3.png in Resources */,
-				84869E752061C76900789F22 /* ERock-11.png in Resources */,
-				84869DFF2061C73D00789F22 /* SRock-7.png in Resources */,
 				84F40070206A20F9008342D8 /* floaties.mp3 in Resources */,
 				849E17892069B09B005FCD78 /* SPRock-1.png in Resources */,
-				84869DFE2061C73D00789F22 /* SRock-13.png in Resources */,
-				84869E082061C73D00789F22 /* SRock-2.png in Resources */,
 				84F4006B206A1E0D008342D8 /* rollingstones.mp3 in Resources */,
-				84869E542061C75E00789F22 /* PRock-16.png in Resources */,
 				84869F382061F46E00789F22 /* CRock-3.png in Resources */,
 				84DD3380206A142E00BD75A8 /* oooo5.mp3 in Resources */,
-				84869E042061C73D00789F22 /* SRock-5.png in Resources */,
-				84869E372061C75E00789F22 /* PRock-9.png in Resources */,
 				84869F272061F36500789F22 /* DRock-10.png in Resources */,
-				849E178D2069B26D005FCD78 /* PRock-6.png in Resources */,
-				84869EB42061C77200789F22 /* BRock-4.png in Resources */,
 				849E17A52069BE46005FCD78 /* NRock-2.png in Resources */,
 				84869F2B2061F36500789F22 /* DRock-9.png in Resources */,
 				84869F392061F46E00789F22 /* CRock-6.png in Resources */,
-				849E17B82069C433005FCD78 /* SRock-6.png in Resources */,
 				849E17E1206A01B8005FCD78 /* movefastfuriously.mp3 in Resources */,
 				84869DD02061C6F500789F22 /* LaunchScreen.storyboard in Resources */,
 				849E179D2069B68E005FCD78 /* DRock-2.png in Resources */,
@@ -1237,172 +806,84 @@
 				84869F132061C78300789F22 /* Rock-3.png in Resources */,
 				84738363206A3DDA008D9EAD /* WBRock-2.png in Resources */,
 				84869F172061CACB00789F22 /* button_arms-2.png in Resources */,
-				84869EE92061C77D00789F22 /* ARock-8.png in Resources */,
-				84869E882061C76900789F22 /* ERock-3.png in Resources */,
-				84869E7C2061C76900789F22 /* ERock-2.png in Resources */,
 				84F40072206A2253008342D8 /* sunblock.mp3 in Resources */,
-				849E17BA2069C44D005FCD78 /* SRock-8.png in Resources */,
 				849E17EA206A0FEC005FCD78 /* noduanenogain.mp3 in Resources */,
-				84869E842061C76900789F22 /* ERock-4.png in Resources */,
 				849E17B62069C416005FCD78 /* SCRock-1.png in Resources */,
-				84869E762061C76900789F22 /* ERock-10.png in Resources */,
-				84869DF82061C73D00789F22 /* SRock-11.png in Resources */,
-				84869E392061C75E00789F22 /* PRock-6.png in Resources */,
 				84869F0A2061C78300789F22 /* Rock-9.png in Resources */,
-				84869E102061C73D00789F22 /* SRock-14.png in Resources */,
 				84C38F69206B2A7600B484C3 /* Travel.mp3 in Resources */,
 				849E17852069A886005FCD78 /* thirdrock.mp3 in Resources */,
 				849E17992069B649005FCD78 /* DRock-4.png in Resources */,
 				849E17952069B603005FCD78 /* SDRock-1.png in Resources */,
 				84869F4F2062206400789F22 /* WWFring.jpg in Resources */,
-				84869E7E2061C76900789F22 /* ERock-1.png in Resources */,
-				84869E7A2061C76900789F22 /* ERock-5.png in Resources */,
-				84869E3E2061C75E00789F22 /* PRock-17.png in Resources */,
 				849E17E6206A0C92005FCD78 /* rockandhardplace.mp3 in Resources */,
 				84F4008C206A2D4D008342D8 /* sparkofimagination.mp3 in Resources */,
-				84869E7D2061C76900789F22 /* ERock-3.png in Resources */,
-				84869EFC2061C77D00789F22 /* ARock-1.png in Resources */,
-				84869EE52061C77D00789F22 /* ARock-7.png in Resources */,
 				84869F432061FB0600789F22 /* summershores.jpg in Resources */,
 				84869F3C2061F46E00789F22 /* CRock-2.png in Resources */,
-				84869E4F2061C75E00789F22 /* PRock-2.png in Resources */,
-				84869DFB2061C73D00789F22 /* SRock-5.png in Resources */,
-				84869EEA2061C77D00789F22 /* ARock-9.png in Resources */,
 				84F4008D206A2D4D008342D8 /* musclesrockhard.mp3 in Resources */,
 				84F40067206A1BD3008342D8 /* jailhouserock.mp3 in Resources */,
-				84869EB62061C77200789F22 /* BRock-14.png in Resources */,
-				84869E3F2061C75E00789F22 /* PRock-16.png in Resources */,
 				84F4007A206A287E008342D8 /* rocktheboat.mp3 in Resources */,
-				84869EF82061C77D00789F22 /* ARock-8.png in Resources */,
 				84869F0B2061C78300789F22 /* Rock-8.png in Resources */,
-				84869DFD2061C73D00789F22 /* SRock-2.png in Resources */,
 				84F40088206A2D4D008342D8 /* knowyourrole.mp3 in Resources */,
 				84869DCD2061C6F500789F22 /* Assets.xcassets in Resources */,
 				849E17BE2069C56A005FCD78 /* SCRock-0.png in Resources */,
-				849E17C02069C57E005FCD78 /* SRock-9.png in Resources */,
 				84869F4B2062089500789F22 /* Garge1.jpg in Resources */,
-				84869E742061C76900789F22 /* ERock-9.png in Resources */,
 				849E17B42069C3F1005FCD78 /* SCRock-2.png in Resources */,
-				84869E0A2061C73D00789F22 /* SRock-8.png in Resources */,
-				84869E442061C75E00789F22 /* PRock-3.png in Resources */,
-				84869E0B2061C73D00789F22 /* SRock-9.png in Resources */,
-				84869EF52061C77D00789F22 /* ARock-14.png in Resources */,
 				849E17AA2069C067005FCD78 /* SERock-1.png in Resources */,
-				84869EB52061C77200789F22 /* BRock-9.png in Resources */,
 				84869E4C2061C75E00789F22 /* PRock-7.png in Resources */,
-				84869EF12061C77D00789F22 /* ARock-13.png in Resources */,
 				84DD3389206A1A3400BD75A8 /* iloverocknroll.mp3 in Resources */,
-				84869E052061C73D00789F22 /* SRock-11.png in Resources */,
 				849E17D12069FC49005FCD78 /* CSERock-2.png in Resources */,
-				84869E722061C76900789F22 /* ERock-8.png in Resources */,
 				84F40089206A2D4D008342D8 /* onlypebbletwo.mp3 in Resources */,
-				84869EA62061C77200789F22 /* BRock-2.png in Resources */,
-				84869EAE2061C77200789F22 /* BRock-1.png in Resources */,
 				84869F0E2061C78300789F22 /* HRock-2.png in Resources */,
 				849E17CF2069FC2D005FCD78 /* CSERock-1.png in Resources */,
 				84C38F5C206ADC2C00B484C3 /* PursuitofAppinessfinal-1.png in Resources */,
 				8473835D206A3CDF008D9EAD /* WPRock-1.png in Resources */,
-				84869E0F2061C73D00789F22 /* SRock-10.png in Resources */,
 				84F40069206A1D0C008342D8 /* keeprocking.mp3 in Resources */,
-				84869EA72061C77200789F22 /* BRock-9.png in Resources */,
 				84738367206A3EF8008D9EAD /* WSRock-2.png in Resources */,
-				84869E3A2061C75E00789F22 /* PRock-14.png in Resources */,
 				849E17D32069FCD8005FCD78 /* dontbeacoldstone.mp3 in Resources */,
-				84869EC12061C77200789F22 /* BRock-12.png in Resources */,
 				84869F262061F36500789F22 /* DRock-8.png in Resources */,
 				84869F3E2061F46E00789F22 /* CRock-9.png in Resources */,
-				84869E032061C73D00789F22 /* SRock-4.png in Resources */,
 				849E17A82069C02E005FCD78 /* dontpokemyeye.mp3 in Resources */,
-				84869EE22061C77D00789F22 /* ARock-1.png in Resources */,
 				84869F3B2061F46E00789F22 /* CRock-1.png in Resources */,
-				84869EF62061C77D00789F22 /* ARock-9.png in Resources */,
 				84869F242061F36500789F22 /* DRock-6.png in Resources */,
 				8473836B206A42B0008D9EAD /* WDRock-2.png in Resources */,
-				84869DFC2061C73D00789F22 /* SRock-13.png in Resources */,
 				84869F452062082300789F22 /* party41.jpg in Resources */,
 				84869E502061C75E00789F22 /* PRock-17.png in Resources */,
-				84869E822061C76900789F22 /* ERock-11.png in Resources */,
-				84869E382061C75E00789F22 /* PRock-8.png in Resources */,
-				84869EF92061C77D00789F22 /* ARock-10.png in Resources */,
 				84738369206A42A2008D9EAD /* WDRock-1.png in Resources */,
-				84869EBA2061C77200789F22 /* BRock-7.png in Resources */,
-				84869EF42061C77D00789F22 /* ARock-15.png in Resources */,
-				84869EAB2061C77200789F22 /* BRock-13.png in Resources */,
-				84869EB12061C77200789F22 /* BRock-6.png in Resources */,
-				84869E472061C75E00789F22 /* PRock-2.png in Resources */,
-				84869EF22061C77D00789F22 /* ARock-11.png in Resources */,
 				84738365206A3EE9008D9EAD /* WSRock-1.png in Resources */,
-				84869EB22061C77200789F22 /* BRock-7.png in Resources */,
-				84869E872061C76900789F22 /* ERock-12.png in Resources */,
 				84F4008F206A2D83008342D8 /* letsrock.mp3 in Resources */,
 				84F4008A206A2D4D008342D8 /* powerofyourmind.mp3 in Resources */,
-				84869E412061C75E00789F22 /* PRock-12.png in Resources */,
 				849E17D72069FE65005FCD78 /* oooo7.mp3 in Resources */,
 				84F4006D206A1F76008342D8 /* oooo6.mp3 in Resources */,
 				84869E552061C75E00789F22 /* PRock-12.png in Resources */,
-				84869E862061C76900789F22 /* ERock-10.png in Resources */,
 				84C38F5A206ADB2400B484C3 /* PursuitofAppinessfinal.pdf in Resources */,
-				84869E012061C73D00789F22 /* SRock-12.png in Resources */,
-				84869EBF2061C77200789F22 /* BRock-10.png in Resources */,
 				84C38F63206B295200B484C3 /* PowerfulSportRock.mp3 in Resources */,
 				84869F2C2061F36500789F22 /* DRock-5.png in Resources */,
 				84DD338B206A1AC800BD75A8 /* iwillrockyou.mp3 in Resources */,
-				84869EED2061C77D00789F22 /* ARock-11.png in Resources */,
-				84869EB92061C77200789F22 /* BRock-5.png in Resources */,
 				84869E532061C75E00789F22 /* PRock-9.png in Resources */,
 				84869E362061C75E00789F22 /* PRock-4.png in Resources */,
 				84869F232061F36500789F22 /* DRock-3.png in Resources */,
-				84869E112061C73D00789F22 /* SRock-7.png in Resources */,
-				84869EBD2061C77200789F22 /* BRock-6.png in Resources */,
-				84869E3D2061C75E00789F22 /* PRock-5.png in Resources */,
-				84869E002061C73D00789F22 /* SRock-6.png in Resources */,
-				84869E782061C76900789F22 /* ERock-6.png in Resources */,
 				84738355206A3A02008D9EAD /* WERock-1.png in Resources */,
-				84869E0C2061C73D00789F22 /* SRock-4.png in Resources */,
-				84869EFA2061C77D00789F22 /* ARock-12.png in Resources */,
 				84869F282061F36500789F22 /* DRock-1.png in Resources */,
 				8473835B206A3BD0008D9EAD /* WCRock-2.png in Resources */,
-				84869EAD2061C77200789F22 /* BRock-14.png in Resources */,
-				84869F152061CA5900789F22 /* button_arms.png in Resources */,
 				84869E4B2061C75E00789F22 /* PRock-13.png in Resources */,
-				84869E7B2061C76900789F22 /* ERock-1.png in Resources */,
 				84DD337C206A125E00BD75A8 /* championsmaylose.mp3 in Resources */,
-				84869EB02061C77200789F22 /* BRock-2.png in Resources */,
-				84869EB72061C77200789F22 /* BRock-4.png in Resources */,
-				84869EB82061C77200789F22 /* BRock-1.png in Resources */,
-				84869EEF2061C77D00789F22 /* ARock-12.png in Resources */,
-				84869E852061C76900789F22 /* ERock-5.png in Resources */,
-				84869EAC2061C77200789F22 /* BRock-12.png in Resources */,
 				84869DC82061C6F500789F22 /* Main.storyboard in Resources */,
-				84869EEB2061C77D00789F22 /* ARock-14.png in Resources */,
 				84F40087206A2D4D008342D8 /* illskipyou.mp3 in Resources */,
 				84F4007E206A2ACD008342D8 /* oooo4.mp3 in Resources */,
 				84DD3387206A177700BD75A8 /* rockon.mp3 in Resources */,
-				84869E3B2061C75E00789F22 /* PRock-15.png in Resources */,
 				84869F4D206208A500789F22 /* arbor day bg 06 v03.png in Resources */,
-				84869EBB2061C77200789F22 /* BRock-8.png in Resources */,
-				84869E832061C76900789F22 /* ERock-2.png in Resources */,
-				84869EC02061C77200789F22 /* BRock-3.png in Resources */,
 				84DD3382206A14B600BD75A8 /* killtwobirds.mp3 in Resources */,
-				84869EE82061C77D00789F22 /* ARock-5.png in Resources */,
 				84869F112061C78300789F22 /* Rock-6.png in Resources */,
-				84869EF72061C77D00789F22 /* ARock-3.png in Resources */,
 				84DD337E206A134900BD75A8 /* walktall.mp3 in Resources */,
 				849E17B22069C2EE005FCD78 /* SARock-2.png in Resources */,
-				84869EE42061C77D00789F22 /* ARock-3.png in Resources */,
 				849E17AE2069C21E005FCD78 /* sharpshooter.mp3 in Resources */,
 				84869E482061C75E00789F22 /* PRock-5.png in Resources */,
 				84C38F5F206B24E400B484C3 /* HawaiianWinter.mp3 in Resources */,
-				84869EE12061C77D00789F22 /* ARock-4.png in Resources */,
 				84869F402061F46E00789F22 /* CRock-10.png in Resources */,
 				84869E572061C75E00789F22 /* PRock-8.png in Resources */,
-				84869EBE2061C77200789F22 /* BRock-11.png in Resources */,
-				84869EE72061C77D00789F22 /* ARock-4.png in Resources */,
 				84869F3F2061F46E00789F22 /* CRock-7.png in Resources */,
 				84869F492062088500789F22 /* Garagedooropen.jpg in Resources */,
 				849E17E8206A0E55005FCD78 /* shiningstar.mp3 in Resources */,
-				84869EA82061C77200789F22 /* BRock-10.png in Resources */,
-				84869EAA2061C77200789F22 /* BRock-8.png in Resources */,
 				84738357206A3A92008D9EAD /* WERock-2.png in Resources */,
 				84C38F6D206B2AFD00B484C3 /* TheJourneyAhead.mp3 in Resources */,
 				849E17EC206A1112005FCD78 /* amazingcarved.mp3 in Resources */,
@@ -1411,15 +892,9 @@
 				849E178220688591005FCD78 /* SPABRock-2.png in Resources */,
 				84869DD92061C72800789F22 /* winterwayBGV2.jpg in Resources */,
 				84C38F65206B29EA00B484C3 /* CountingStars.mp3 in Resources */,
-				84869E732061C76900789F22 /* ERock-12.png in Resources */,
-				84869E022061C73D00789F22 /* SRock-10.png in Resources */,
-				84869E452061C75E00789F22 /* PRock-11.png in Resources */,
 				849E17DB2069FEBE005FCD78 /* oooo8.mp3 in Resources */,
 				84F40076206A2637008342D8 /* partyrock.mp3 in Resources */,
 				849E17BC2069C47B005FCD78 /* youaretheking.mp3 in Resources */,
-				84869E122061C73D00789F22 /* SRock-1.png in Resources */,
-				84869E072061C73D00789F22 /* SRock-14.png in Resources */,
-				84869EBC2061C77200789F22 /* BRock-13.png in Resources */,
 				849E17DF206A0126005FCD78 /* scissors.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -1436,6 +911,7 @@
 				84869DC52061C6F500789F22 /* ViewController.swift in Sources */,
 				849E17092064B6E6005FCD78 /* ViewController2.swift in Sources */,
 				84869DCB2061C6F500789F22 /* My_Pet__The_Rock_Official.xcdatamodeld in Sources */,
+				84C38F71206B40C900B484C3 /* ViewController9.swift in Sources */,
 				849E17132064D208005FCD78 /* ViewController6.swift in Sources */,
 				849E17152064D595005FCD78 /* ViewController7.swift in Sources */,
 				84C38F6F206B2D1C00B484C3 /* ViewController8.swift in Sources */,
@@ -1584,7 +1060,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.joeyNewfield.My-Pet--The-Rock-Official";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -1599,7 +1075,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.joeyNewfield.My-Pet--The-Rock-Official";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
